@@ -17,21 +17,6 @@
 
     <meta name='robots' content='max-image-preview:large' />
 
-    <!-- Facebook Pixel Code -->
-    <script>
-        !function (f, b, e, v, n, t, s) {
-            if (f.fbq) return; n = f.fbq = function () {
-                n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            }; if (!f._fbq) f._fbq = n;
-            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
-            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
-        }(window,
-            document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-        fbq("init", 7297931180278959);			</script>
-    <!-- DO NOT MODIFY -->
-    <!-- End Facebook Pixel Code -->
-
     <link rel='dns-prefetch' href='//s.w.org' />
     <link rel="alternate" type="application/rss+xml" title="Nwanneka Caleb &raquo; Feed"
         href="https://www.calebismarketing.com/feed/" />
@@ -59,7 +44,25 @@
     <link rel='stylesheet' id='tve_landing_page_base_css-css'
         href='https://www.calebismarketing.com/wp-content/plugins/thrive-visual-editor/landing-page/templates/css/base.css?ver=2.6.2.1'
         media='all' />
-
+    <!-- Meta Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1371832563228056');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=1371832563228056&ev=PageView&noscript=1" /></noscript>
+    <!-- End Meta Pixel Code -->
 
     <link rel='stylesheet' id='tve_style_family_tve_flt-css'
         href='https://www.calebismarketing.com/wp-content/plugins/thrive-visual-editor/editor/css/thrive_flat.css?ver=2.6.2.1'
@@ -101,11 +104,11 @@
             s.parentNode.insertBefore(t, s)
         }(window, document, 'script',
             'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '7297931180278959');
+        fbq('init', '1371832563228056');
         fbq('track', 'PageView');
     </script>
     <noscript><img height="1" width="1" style="display:none"
-            src="https://www.facebook.com/tr?id=7297931180278959&ev=PageView&noscript=1" /></noscript>
+            src="https://www.facebook.com/tr?id=1371832563228056&ev=PageView&noscript=1" /></noscript>
     <!-- End Meta Pixel Code -->
     <style type="text/css" id="tve_global_variables">
         :root {}
@@ -114,33 +117,6 @@
         href="https://www.calebismarketing.com/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2"
         as="font" type="font/woff2" crossorigin>
 
-    <!-- Facebook Pixel Code -->
-    <script type='text/javascript'>
-        !function (f, b, e, v, n, t, s) {
-            if (f.fbq) return; n = f.fbq = function () {
-                n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            }; if (!f._fbq) f._fbq = n;
-            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
-            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
-        }(window,
-            document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-    </script>
-    <!-- End Facebook Pixel Code -->
-    <script type='text/javascript'>
-        fbq('init', '1036701510529791', {}, {
-            "agent": "wordpress-5.9.3-3.0.6"
-        });
-    </script>
-    <script type='text/javascript'>
-        fbq('track', 'PageView', []);
-    </script>
-    <!-- Facebook Pixel Code -->
-    <noscript>
-        <img height="1" width="1" style="display:none" alt="fbpx"
-            src="https://www.facebook.com/tr?id=1036701510529791&ev=PageView&noscript=1" />
-    </noscript>
-    <!-- End Facebook Pixel Code -->
     <style type="text/css" class="tve_custom_style">
         @import url("//fonts.googleapis.com/css?family=Benne:400,&subset=latin");
         @import url("//fonts.googleapis.com/css?family=Nunito:400,600,800,900,300,700&subset=latin");
@@ -1204,7 +1180,8 @@
                                 <div class="tve-cb">
                                     <div class="thrv_wrapper thrv_text_element">
                                         <h2 data-css="tve-u-17e81fd8b75" style="text-align: center;" class="">
-                                            <strong>FREE VIDEO REVEALS!</strong></h2>
+                                            <strong>FREE VIDEO REVEALS!</strong>
+                                        </h2>
                                     </div>
                                 </div>
                             </div>
@@ -1227,9 +1204,10 @@
                                         <span class="tve_image_frame"><img class="tve_image wp-image-51" alt=""
                                                 data-id="51" width="375" data-init-width="1080" height="375"
                                                 data-init-height="1080" title="Facebook Ads flyer" loading="lazy"
-                                                src="https://www.calebismarketing.com/wp-content/uploads/2022/02/Facebook-Ads-flyer.jpg"
-                                                data-width="375" data-height="375" ml-d="0" mt-d="0" style=""
-                                                data-css="tve-u-17e8208df3d"></span></div>
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image11.jpeg" data-width="375" data-height="375" ml-d="0" mt-d="0"
+                                                style="" data-css="tve-u-17e8208df3d"></span>
+                                    </div>
+
                                     <div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-17e82054e0d">
                                         <p data-css="tve-u-17e8203eabf" style="text-align: center;"><strong>In this free
                                                 video I will be showing you how to start this simple <span
@@ -1238,6 +1216,14 @@
                                                     making money weekly from it.</span><span
                                                     data-css="tve-u-17e8203ead9"> </span></strong></p>
                                     </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
+                                                data-id="51" width="375" data-init-width="1080" height="375"
+                                                data-init-height="1080" title="Facebook Ads flyer" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image13.gif" data-width="375" data-height="375" ml-d="0" mt-d="0"
+                                                style="" data-css="tve-u-17e8208df3d"></span>
+                                    </div>
+
                                     <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e821245d3" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-102" alt=""
                                                 data-id="102" width="183" data-init-width="480" height="165"
@@ -1245,8 +1231,10 @@
                                                 loading="lazy"
                                                 src="https://www.calebismarketing.com/wp-content/uploads/2022/02/75efc5c504cebcaeab51766b5eff9bcf.gif"
                                                 data-width="183" data-height="165" mt-d="0" style=""
-                                                data-css="tve-u-17e821255c5"></span></div>
+                                                data-css="tve-u-17e821255c5"></span>
+                                    </div>
                                 </div>
+
                             </div>
                         </div>
                     </div>
@@ -1262,7 +1250,7 @@
                                         <div class="thrive-colors-palette-config" style="display: none !important">
                                         </div>
 
-                                        <a href="http://bit.ly/3uAh0RQ"
+                                        <a href="https://wa.link/15s7ua "
                                             class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover"
                                             data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;forward&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__"
                                             style=""><span class="tcb-button-icon">
@@ -1286,6 +1274,8 @@
                             </div>
                         </div>
                     </div>
+
+                    </span>
                     <div class="thrv_wrapper thrv-page-section tve-height-update" data-inherit-lp-settings="1">
                         <div class="tve-page-section-out"></div>
                         <div class="tve-page-section-in tve_empty_dropzone">
@@ -1294,27 +1284,53 @@
                                 <div class="tve-content-box-background"></div>
                                 <div class="tve-cb">
                                     <div class="thrv_wrapper thrv_text_element">
-                                        <p><span data-css="tve-u-17e8215ec5c">Listen friend, to make money online is
-                                                simple, and if you haven't made money online before, I totally
-                                                understand.</span></p>
+                                        <p><span data-css="tve-u-17e8215ec5c">Dear friend</span></p>
                                         <p><span data-css="tve-u-17e8215ec5e"><br></span></p>
-                                        <p><span data-css="tve-u-17e8215ec60">The main thing is learning how to start
-                                                right, and this is possible only if you know what works.</span></p>
+                                        <p><span data-css="tve-u-17e8215ec60">I am about to expose a secret nobody in my
+                                                industry will ever tell you until it is too late..</span></p>
                                         <p><br></p>
-                                        <p><span data-css="tve-u-17e8215ec61">If I were to start all over again, the
-                                                first thing I would do is to <strong>find a business model or
-                                                    strategy</strong> that has been <strong>proven</strong> to never
-                                                fail over the years.</span></p>
+                                        <p><span data-css="tve-u-17e8215ec61">So do yourself a favour listen very
+                                                carefully...</span></p>
                                         <p><span data-css="tve-u-17e8215ec63"><br></span></p>
-                                        <p dir="ltr">And this is what I will be showing you today. This <strong>simple
-                                                business model is simple and very profitable.&nbsp;</strong></p>
+                                        <p dir="ltr">Here’s the real truth no one will tell you about making money
+                                            online,</p>
                                         <p dir="ltr"><br></p>
-                                        <p dir="ltr">But the only condition is that, <strong><span
-                                                    style="text-decoration: underline;">you need to put in the work and
-                                                    be ready to take action!</span></strong></p>
+                                        <p dir="ltr">Making Money Online is not Easy </p>
                                         <p dir="ltr"><br></p>
-                                        <p><span data-css="tve-u-17e8215ec68">This strategy works for everyone, and can
-                                                work for you too, even if:</span></p>
+                                        <p><span data-css="tve-u-17e8215ec68">Contrary to what most Marketers who just
+                                                want your money will tell you, it is not easy it requires a good amount
+                                                of work and effort, </p>
+                                        <p dir="ltr"><br></p>
+                                        <p dir="ltr">I mean if it was so easy why is everybody not doing it? Think about
+                                            it… </p>
+                                        <p dir="ltr"><br></p>
+                                        <p dir="ltr">Maybe you have even tried already and it didn’t work…</p>
+                                        <p dir="ltr"><br></p>
+                                        <p dir="ltr">But although making Money Online is not easy it is also not
+                                            impossible. </p>
+                                        <p dir="ltr"><br></p>
+                                        <p dir="ltr">To actually make money online, you essentially need 3 things: </p>
+                                        <p dir="ltr"><br></p>
+                                        <p dir="ltr">Little Capital to start </p>
+                                        <p dir="ltr"><br></p>
+                                        <p dir="ltr">A good Business Model and </p>
+                                        <p dir="ltr"><br></p>
+                                        <p dir="ltr">A Proven-to-work strategy </p>
+                                        <p dir="ltr"><br></p>
+                                        <p dir="ltr">If you have the first one I can help you with the other two in this
+                                            special FREE VIDEO I have created for anyone that wants to make money online
+                                            or is finding it hard to start…</p>
+                                        <p dir="ltr"><br></p>
+                                        <p dir="ltr"> Making Money Online is not easy but it is very possible…</p>
+                                        <p dir="ltr"><br></p>
+                                        <p dir="ltr">And Affiliate marketing is that simple business model that can make
+                                            that possible, it is simple if you have the right business strategy. </p>
+                                        <p dir="ltr"><br></p>
+                                        <p dir="ltr">My aim is to provide you with information that helps you
+                                            understand; </p>
+                                        <p dir="ltr"><br></p>
+
+
                                     </div>
                                     <div class="thrv_wrapper thrv-styled_list" data-icon-code="icon-check" style=""
                                         data-css="tve-u-17e821c66ae">
@@ -1333,10 +1349,10 @@
                                                 </div><span
                                                     class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                     data-css="tve-u-17e821c70a2" style="">
-                                                    <div><strong>You have little or no experience about selling
-                                                            online.</strong></div>
+                                                    <div><strong>What this Business Model is all about?.</strong></div>
                                                 </span>
                                             </li>
+                                            <div><br></div>
                                             <li class="thrv-styled-list-item">
                                                 <div class="tcb-styled-list-icon">
                                                     <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
@@ -1350,8 +1366,8 @@
                                                         </svg></div>
                                                 </div><span
                                                     class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                    data-css="tve-u-17e821c70a2" style=""><strong>You don't have a
-                                                        laptop (your smartphone is enough)</strong></span>
+                                                    data-css="tve-u-17e821c70a2" style=""><strong>How it
+                                                        works</strong></span>
                                             </li>
                                             <li class="thrv-styled-list-item">
                                                 <div class="tcb-styled-list-icon">
@@ -1366,9 +1382,78 @@
                                                         </svg></div>
                                                 </div><span
                                                     class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                    data-css="tve-u-17e821c70a2" style=""><strong>You are new to the
-                                                        online space and are confused about how the whole online money
-                                                        thing works.</strong></span>
+                                                    data-css="tve-u-17e821c70a2" style=""><strong>The exact strategy I
+                                                        and my students to make multiple 6 figures
+                                                        weekly</strong></span>
+                                            </li>
+                                            <li class="thrv-styled-list-item">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
+                                                        data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512"
+                                                            data-id="icon-arrow-circle-right-solid" data-name=""
+                                                            style="">
+                                                            <path
+                                                                d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-17e821c70a2" style=""><strong>A case study of how I
+                                                        make not less than..100k and above every week</strong></span>
+                                            </li>
+                                            <li class="thrv-styled-list-item">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
+                                                        data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512"
+                                                            data-id="icon-arrow-circle-right-solid" data-name=""
+                                                            style="">
+                                                            <path
+                                                                d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-17e821c70a2" style=""><strong>How YOU can get
+                                                        started making money with this Business Model</strong></span>
+                                            </li>
+                                            <br>
+                                            <li class="thrv-styled-list-item">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
+                                                        data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512"
+                                                            data-id="icon-arrow-circle-right-solid" data-name=""
+                                                            style="">
+                                                            <path
+                                                                d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-17e821c70a2" style=""><strong>How you can make money
+                                                        from the skills you will learn from the training course outside
+                                                        affiliate marketing</strong></span>
+                                            </li>
+                                            <br>
+                                            <li class="thrv-styled-list-item">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
+                                                        data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512"
+                                                            data-id="icon-arrow-circle-right-solid" data-name=""
+                                                            style="">
+                                                            <path
+                                                                d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-17e821c70a2" style=""><strong>How to sell other
+                                                        people's products in Nigeria and international countries, so you
+                                                        have the option to choose which currency you want to
+                                                        earn.</strong></span>
                                             </li>
                                         </ul>
                                     </div>
@@ -1377,7 +1462,7 @@
                                         <div class="thrive-colors-palette-config" style="display: none !important">
                                         </div>
 
-                                        <a href="http://bit.ly/3uAh0RQ"
+                                        <a href="https://wa.link/15s7ua"
                                             class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover"
                                             data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;forward&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__"
                                             style=""><span class="tcb-button-icon">
@@ -1400,234 +1485,231 @@
                                     <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
                                         <p dir="ltr">If you are wondering why I am sure about this business model anyone
                                             can start online in Nigeria, it's because <strong>I have made my own
-                                                millions from it. </strong>Here's my picture down below...</p>
+                                                millions from it. </strong>Here's what my students are saying...</p>
                                     </div>
-                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876acde2" style="">
-                                        <span class="tve_image_frame"><img class="tve_image wp-image-63" alt=""
-                                                data-id="63" width="189" data-init-width="1920" height="251"
-                                                data-init-height="2560" title="IMG_4249" loading="lazy"
-                                                src="https://www.calebismarketing.com/wp-content/uploads/2022/02/IMG_4249-scaled-1.jpeg"
-                                                data-width="189" data-height="251" ml-d="0" mt-d="0" style=""
-                                                data-css="tve-u-17e876afc02" mt-m="0"></span></div>
-                                    <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
-                                        <p dir="ltr">Funny thing is that, a lot of people call me <strong>Caleb
-                                                Money</strong> online, because I have made a lot of profit from this
-                                            Century-Old Business Model that <strong>I will be showing you</strong></p>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-51" alt=""
+                                                data-id="51" width="375" data-init-width="1080" height="375"
+                                                data-init-height="1080" title="Facebook Ads flyer" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image1.jpeg" data-width="375" data-height="375" ml-d="0" mt-d="0"
+                                                style="" data-css="tve-u-17e8208df3d"></span>
                                     </div>
-                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876f56e6" style="">
-                                        <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
-                                                data-id="10" width="375" data-init-width="1080" height="287"
-                                                data-init-height="827" title="Screenshot_20220114-142329_Twitter"
-                                                loading="lazy"
-                                                src="https://www.calebismarketing.com/wp-content/uploads/2022/02/Screenshot_20220114-142329_Twitter.jpg"
-                                                data-width="375" data-height="287" ml-d="0" mt-d="0" style=""
-                                                data-css="tve-u-17e8208df3d"></span></div>
+
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-51" alt=""
+                                                data-id="51" width="375" data-init-width="1080" height="375"
+                                                data-init-height="1080" title="Facebook Ads flyer" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image2.jpeg" data-width="375" data-height="375" ml-d="0" mt-d="0"
+                                                style="" data-css="tve-u-17e8208df3d"></span>
+                                    </div>
                                     <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
                                         <p dir="ltr">And that is why I want to show you how this is done too, and
                                             <strong><span style="text-decoration: underline;">how you can claim this
-                                                    online wealth for yourself in 2022</span></strong> too.</p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr">To get started, <strong>Click the BUTTON
-                                                below</strong><strong>;</strong></p>
-                                    </div>
-                                    <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tcb-with-icon tcb-flip tve_ea_thrive_animation tve_anim_forward"
-                                        data-button-style="btn-tpl-58405" data-css="tve-u-17e87697136" style="">
-                                        <div class="thrive-colors-palette-config" style="display: none !important">
-                                        </div>
-
-                                        <a href="http://bit.ly/3uAh0RQ"
-                                            class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover"
-                                            data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;forward&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__"
-                                            style=""><span class="tcb-button-icon">
-                                                <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                    data-css="tve-u-17e8769713a" style=""><svg class="tcb-icon"
-                                                        viewBox="0 0 512 512" data-id="icon-arrow-circle-up-solid"
-                                                        data-name="">
-                                                        <path
-                                                            d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm143.6 28.9l72.4-75.5V392c0 13.3 10.7 24 24 24h16c13.3 0 24-10.7 24-24V209.4l72.4 75.5c9.3 9.7 24.8 9.9 34.3.4l10.9-11c9.4-9.4 9.4-24.6 0-33.9L273 107.7c-9.4-9.4-24.6-9.4-33.9 0L106.3 240.4c-9.4 9.4-9.4 24.6 0 33.9l10.9 11c9.6 9.5 25.1 9.3 34.4-.4z">
-                                                        </path>
-                                                    </svg></div>
-                                            </span>
-
-                                            <span class="tcb-button-texts"><span
-                                                    class="tcb-button-text thrv-inline-text" style=""
-                                                    data-css="tve-u-17e8769713c"><strong>CLICK HERE TO GET ACCESS TO
-                                                        FREE VIDEO</strong></span></span>
-                                        </a>
-                                    </div>
-                                    <div class="thrv_wrapper thrv_text_element">
-                                        <p dir="ltr">And If you are wondering how simple this Century Old simple System
-                                            is, I will show you because;</p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr"><br></p>
-                                        <p><strong>All you need to do is follow this simple 3 simple step process I will
-                                                be showing you;</strong></p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr"><strong><span data-css="tve-u-17e8223d27a">1.</span></strong> Join
-                                            a platform where top experts have listed their own digital products. These
-                                            products are High Value products that people mostly buy.</p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr"><strong><span data-css="tve-u-17e822403cc">2.</span></strong>
-                                            Choose a product to sell, it doesn't have to be your own product, you just
-                                            have to find a good sellable product. You sell for a commission. This means
-                                            if you are selling a #10,000 product, you can make #5,000 in commission
-                                            (Note: some products cost more than #50,000)</p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr"><strong><span data-css="tve-u-17e82244231">3.</span></strong> Drive
-                                            traffic to the product, tell as many people as possible, recommending the
-                                            product to them. The more people buy, the more money you make.</p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr">This <strong>CENTURY OLD Business model</strong> is called
-                                            <strong><span data-css="tve-u-17e82267d28">Affiliate
-                                                    Marketing</span></strong> and it's an <strong><span
-                                                    data-css="tve-u-17e8226b23c">EVER-GREEN system</span></strong>. It
-                                            has been here for over a century and it will still be here as long as people
-                                            still buy and sell.</p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr">But, the most important thing is not the business model, the
-                                            important thing is the profitable strategy to make money from it. And that
-                                            is what I want to show you.</p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr"><strong>In this Free Video</strong>, I'll be showing the marketing
-                                            me and my students have been using to make at least <strong><span
-                                                    data-css="tve-u-17e8225a46c">₦</span></strong><strong>500,000
-                                                weekly</strong> from this business model.</p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr">The only thing is that <strong>I only teach 50 special persons who
-                                                are ready to take action monthly.</strong></p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr"><strong>That means if you don't make the list this month, then
-                                                you'd have to wait for one more month or never even get a chance, I
-                                                decided not to teach it again.</strong></p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr"><strong><span data-css="tve-u-17e82286010">P.S;</span></strong> The
-                                            slot for this month is almost closed, click the big Red button below to join
-                                            the 50 people now!</p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr"><strong><span data-css="tve-u-17e82286011">P.S.S;</span></strong>
-                                            When you click this link, you will be sent to my personal WhatsApp line and
-                                            you will be given instructions to follow.</p>
-                                        <p dir="ltr"><br></p>
-                                        <p dir="ltr" style="text-align: center;"><strong><span
-                                                    style="text-decoration: underline;">If you do this fast you might
-                                                    meet the 50 people requirements for this month.</span></strong></p>
-                                    </div>
-                                    <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tcb-with-icon tcb-flip tve_ea_thrive_animation tve_anim_forward"
-                                        data-button-style="btn-tpl-58405" data-css="tve-u-17e820a4536" style="">
-                                        <div class="thrive-colors-palette-config" style="display: none !important">
-                                        </div>
-
-                                        <a href="http://bit.ly/3uAh0RQ"
-                                            class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover"
-                                            data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;forward&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__"
-                                            style=""><span class="tcb-button-icon">
-                                                <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                    data-css="tve-u-17e820aac48" style=""><svg class="tcb-icon"
-                                                        viewBox="0 0 512 512" data-id="icon-arrow-circle-up-solid"
-                                                        data-name="">
-                                                        <path
-                                                            d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm143.6 28.9l72.4-75.5V392c0 13.3 10.7 24 24 24h16c13.3 0 24-10.7 24-24V209.4l72.4 75.5c9.3 9.7 24.8 9.9 34.3.4l10.9-11c9.4-9.4 9.4-24.6 0-33.9L273 107.7c-9.4-9.4-24.6-9.4-33.9 0L106.3 240.4c-9.4 9.4-9.4 24.6 0 33.9l10.9 11c9.6 9.5 25.1 9.3 34.4-.4z">
-                                                        </path>
-                                                    </svg></div>
-                                            </span>
-
-                                            <span class="tcb-button-texts"><span
-                                                    class="tcb-button-text thrv-inline-text" style=""
-                                                    data-css="tve-u-17e820dae85"><strong>CLICK HERE TO GET ACCESS TO
-                                                        FREE VIDEO</strong></span></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="thrv_wrapper thrv-page-section tve-height-update" data-inherit-lp-settings="1">
-                        <div class="tve-page-section-out" style="" data-css="tve-u-17e822a5fbf"></div>
-                        <div class="tve-page-section-in tve_empty_dropzone" style="" data-css="tve-u-17e822cb115">
-                            <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
-                                style="" data-css="tve-u-17e822a8e34">
-                                <div class="tve-content-box-background"></div>
-                                <div class="tve-cb">
-                                    <div class="thrv_wrapper thrv_text_element">
-                                        <p data-css="tve-u-17e822c24a8" style="text-align: center;"><span
-                                                data-css="tve-u-17e822c24c1"><span data-css="tve-u-17e822bb538"><span
-                                                        data-css="tve-u-17e822c24c6">This Site Is Not A Part Of The
-                                                        Facebook Website Or Facebook Inc. Additionally, This Site Is Not
-                                                        Endorsed By Facebook In Any Way. FACEBOOK Is A Trademark Of
-                                                        FACEBOOK, Inc.</span></span><strong><span
-                                                        data-css="tve-u-17e822c24c9"></span></strong></span></p>
-                                    </div>
-                                    <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e822bc9af" style="">
-                                        <p data-css="tve-u-17e822aeddc" style="text-align: center;"><span
-                                                data-css="tve-u-17e822aedef"><strong><span
-                                                        data-css="tve-u-17e822aedf0">Copyright
-                                                        ©2022&nbsp;&nbsp;<strong><span
-                                                                data-css="tve-u-17e822aedf4">—&nbsp;</span></strong>Caleb
-                                                        Nwanneka —&nbsp;</span></strong></span><strong><span
-                                                    data-css="tve-u-17e822aedf6">All Rights Reserved.</span></strong>
+                                                    online wealth for yourself in 2022</span></strong> too.
                                         </p>
+                                        <p dir="ltr"><br></p>
+                                        <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8"
+                                            style="">
+                                            <span class="tve_image_frame"><img class="tve_image wp-image-51" alt=""
+                                                    data-id="51" width="375" data-init-width="1080" height="375"
+                                                    data-init-height="1080" title="Facebook Ads flyer" loading="lazy"
+                                                    src="https://idyllic-klepon-d7c501.netlify.app/image3.jpeg" data-width="375" data-height="375" ml-d="0"
+                                                    mt-d="0" style="" data-css="tve-u-17e8208df3d">
+                                            </span>
+                                        </div>
+                                        <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8"
+                                            style="">
+                                            <span class="tve_image_frame"><img class="tve_image wp-image-51" alt=""
+                                                    data-id="51" width="375" data-init-width="1080" height="375"
+                                                    data-init-height="1080" title="Facebook Ads flyer" loading="lazy"
+                                                    src="https://idyllic-klepon-d7c501.netlify.app/image4.jpeg" data-width="375" data-height="375" ml-d="0"
+                                                    mt-d="0" style="" data-css="tve-u-17e8208df3d">
+                                            </span>
+                                        </div>
+                                        <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8"
+                                            style="">
+                                            <span class="tve_image_frame"><img class="tve_image wp-image-51" alt=""
+                                                    data-id="51" width="375" data-init-width="1080" height="375"
+                                                    data-init-height="1080" title="Facebook Ads flyer" loading="lazy"
+                                                    src="https://idyllic-klepon-d7c501.netlify.app/image5.jpeg" data-width="375" data-height="375" ml-d="0"
+                                                    mt-d="0" style="" data-css="tve-u-17e8208df3d">
+                                            </span>
+                                        </div>
+                                        <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8"
+                                            style="">
+                                            <span class="tve_image_frame"><img class="tve_image wp-image-51" alt=""
+                                                    data-id="51" width="375" data-init-width="1080" height="375"
+                                                    data-init-height="1080" title="Facebook Ads flyer" loading="lazy"
+                                                    src="https://idyllic-klepon-d7c501.netlify.app/image6.jpeg" data-width="375" data-height="375" ml-d="0"
+                                                    mt-d="0" style="" data-css="tve-u-17e8208df3d">
+                                            </span>
+                                        </div>
+                                        <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8"
+                                            style="">
+                                            <span class="tve_image_frame"><img class="tve_image wp-image-51" alt=""
+                                                    data-id="51" width="375" data-init-width="1080" height="375"
+                                                    data-init-height="1080" title="Facebook Ads flyer" loading="lazy"
+                                                    src="https://idyllic-klepon-d7c501.netlify.app/image8.jpeg" data-width="375" data-height="375" ml-d="0"
+                                                    mt-d="0" style="" data-css="tve-u-17e8208df3d">
+                                            </span>
+                                        </div>
+                                        <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8"
+                                            style="">
+                                            <span class="tve_image_frame"><img class="tve_image wp-image-51" alt=""
+                                                    data-id="51" width="375" data-init-width="1080" height="375"
+                                                    data-init-height="1080" title="Facebook Ads flyer" loading="lazy"
+                                                    src="https://idyllic-klepon-d7c501.netlify.app/image9.jpeg" data-width="375" data-height="375" ml-d="0"
+                                                    mt-d="0" style="" data-css="tve-u-17e8208df3d">
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-51" alt=""
+                                                data-id="51" width="375" data-init-width="1080" height="375"
+                                                data-init-height="1080" title="Facebook Ads flyer" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image10.jpeg" data-width="375" data-height="375" ml-d="0" mt-d="0"
+                                                style="" data-css="tve-u-17e8208df3d">
+                                        </span>
                                     </div>
                                 </div>
+                                <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
+                                    <span class="tve_image_frame"><img class="tve_image wp-image-51" alt="" data-id="51"
+                                            width="375" data-init-width="1080" height="375" data-init-height="1080"
+                                            title="Facebook Ads flyer" loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image12.jpeg"
+                                            data-width="375" data-height="375" ml-d="0" mt-d="0" style=""
+                                            data-css="tve-u-17e8208df3d">
+                                    </span>
+                                </div>
                             </div>
+                            <p dir="ltr">To get started, <strong>Click the BUTTON
+                                    below</strong><strong>;</strong></p>
+                        </div>
+                        <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tcb-with-icon tcb-flip tve_ea_thrive_animation tve_anim_forward"
+                            data-button-style="btn-tpl-58405" data-css="tve-u-17e87697136" style="">
+                            <div class="thrive-colors-palette-config" style="display: none !important">
+                            </div>
+
+                            <a href="https://wa.link/15s7ua "
+                                class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover"
+                                data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;forward&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__"
+                                style=""><span class="tcb-button-icon">
+                                    <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
+                                        data-css="tve-u-17e8769713a" style=""><svg class="tcb-icon"
+                                            viewBox="0 0 512 512" data-id="icon-arrow-circle-up-solid" data-name="">
+                                            <path
+                                                d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm143.6 28.9l72.4-75.5V392c0 13.3 10.7 24 24 24h16c13.3 0 24-10.7 24-24V209.4l72.4 75.5c9.3 9.7 24.8 9.9 34.3.4l10.9-11c9.4-9.4 9.4-24.6 0-33.9L273 107.7c-9.4-9.4-24.6-9.4-33.9 0L106.3 240.4c-9.4 9.4-9.4 24.6 0 33.9l10.9 11c9.6 9.5 25.1 9.3 34.4-.4z">
+                                            </path>
+                                        </svg></div>
+                                </span>
+
+                                <span class="tcb-button-texts"><span class="tcb-button-text thrv-inline-text" style=""
+                                        data-css="tve-u-17e8769713c"><strong>CLICK HERE TO GET ACCESS TO
+                                            FREE VIDEO</strong></span></span>
+                            </a>
+                        </div>
+                        <div class="thrv_wrapper thrv_text_element">
+                            <p dir="ltr">And If you are wondering how simple this Century Old simple System
+                                is, I will show you because;</p>
+                            <p dir="ltr"><br></p>
+                            <p dir="ltr"><br></p>
+                            <p><strong>All you need to do is follow this simple 3 simple step process I will
+                                    be showing you in the masterclass</strong></p>
+                            <p dir="ltr"><br></p>
+
+                            <p dir="ltr"><br></p>
+                            <p dir="ltr" style="text-align: center;"><strong><span
+                                        style="text-decoration: underline;">If you do this fast you might
+                                        meet the 50 people requirements for this month.</span></strong></p>
+                        </div>
+                        <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
+                            <span class="tve_image_frame"><img class="tve_image wp-image-10" alt="" data-id="51"
+                                    width="375" data-init-width="1080" height="375" data-init-height="1080"
+                                    title="Facebook Ads flyer" loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image13.gif" data-width="375"
+                                    data-height="375" ml-d="0" mt-d="0" style="" data-css="tve-u-17e8208df3d"></span>
+                        </div>
+                        <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tcb-with-icon tcb-flip tve_ea_thrive_animation tve_anim_forward"
+                            data-button-style="btn-tpl-58405" data-css="tve-u-17e820a4536" style="">
+                            <div class="thrive-colors-palette-config" style="display: none !important">
+                            </div>
+
+
+                            <a href="https://wa.link/15s7ua "
+                                class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover"
+                                data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;forward&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__"
+                                style=""><span class="tcb-button-icon">
+                                    <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
+                                        data-css="tve-u-17e820aac48" style=""><svg class="tcb-icon"
+                                            viewBox="0 0 512 512" data-id="icon-arrow-circle-up-solid" data-name="">
+                                            <path
+                                                d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm143.6 28.9l72.4-75.5V392c0 13.3 10.7 24 24 24h16c13.3 0 24-10.7 24-24V209.4l72.4 75.5c9.3 9.7 24.8 9.9 34.3.4l10.9-11c9.4-9.4 9.4-24.6 0-33.9L273 107.7c-9.4-9.4-24.6-9.4-33.9 0L106.3 240.4c-9.4 9.4-9.4 24.6 0 33.9l10.9 11c9.6 9.5 25.1 9.3 34.4-.4z">
+                                            </path>
+                                        </svg></div>
+                                </span>
+
+                                <span class="tcb-button-texts"><span class="tcb-button-text thrv-inline-text" style=""
+                                        data-css="tve-u-17e820dae85"><strong>CLICK HERE TO GET ACCESS TO
+                                            FREE VIDEO</strong></span></span>
+                            </a>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>
-        <div class="fr-dropdown-holder tcb-style-wrap"></div>
+        <div class="thrv_wrapper thrv-page-section tve-height-update" data-inherit-lp-settings="1">
+            <div class="tve-page-section-out" style="" data-css="tve-u-17e822a5fbf"></div>
+            <div class="tve-page-section-in tve_empty_dropzone" style="" data-css="tve-u-17e822cb115">
+                <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad" style=""
+                    data-css="tve-u-17e822a8e34">
+                    <div class="tve-content-box-background"></div>
+                    <div class="tve-cb">
+                        <div class="thrv_wrapper thrv_text_element">
+                            <p data-css="tve-u-17e822c24a8" style="text-align: center;"><span
+                                    data-css="tve-u-17e822c24c1"><span data-css="tve-u-17e822bb538"><span
+                                            data-css="tve-u-17e822c24c6">This Site Is Not A Part Of The
+                                            Facebook Website Or Facebook Inc. Additionally, This Site Is Not
+                                            Endorsed By Facebook In Any Way. FACEBOOK Is A Trademark Of
+                                            FACEBOOK, Inc.</span></span><strong><span
+                                            data-css="tve-u-17e822c24c9"></span></strong></span></p>
+                        </div>
+                        <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e822bc9af" style="">
+                            <p data-css="tve-u-17e822aeddc" style="text-align: center;"><span
+                                    data-css="tve-u-17e822aedef"><strong><span data-css="tve-u-17e822aedf0">Copyright
+                                            ©2022&nbsp;&nbsp;<strong><span
+                                                    data-css="tve-u-17e822aedf4">—&nbsp;</span></strong>Ogbe
+                                            Excel—&nbsp;</span></strong></span><strong><span
+                                        data-css="tve-u-17e822aedf6">All Rights Reserved.</span></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
-    <!-- Facebook Pixel Event Code -->
-    <script type='text/javascript'>
-        document.addEventListener('wpcf7mailsent', function (event) {
-            if ("fb_pxl_code" in event.detail.apiResponse) {
-                eval(event.detail.apiResponse.fb_pxl_code);
-            }
-        }, false);
+    </div>
+    </div>
+    <div class="fr-dropdown-holder tcb-style-wrap"></div>
+    </div>
+
+    <!-- Meta Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1371832563228056');
+        fbq('track', 'PageView');
     </script>
-    <!-- End Facebook Pixel Event Code -->
-    <div id='fb-pxl-ajax-code'></div>
-    <script type="text/javascript">var TVE_Event_Manager_Registered_Callbacks = TVE_Event_Manager_Registered_Callbacks || {}; TVE_Event_Manager_Registered_Callbacks.thrive_animation = function (trigger, action, config) {
-            var $element = jQuery(this),
-            $at = $element.closest('.tcb-col, .thrv_wrapper');
-            if ($at.length === 0) {
-                $at = $element;
-            }
-            if (!config.loop && $at.data('a-done')) {
-                return;
-            }
-            $at.data('a-done', 1);
-            $at.removeClass(function (i, cls) {
-                return cls.split(' ').filter(function (item) {
-                    return item.indexOf('tve_anim_') === 0;
-                }).join(' ');
-            }).addClass('tve_anim_' + config.anim).removeClass('tve_anim_start');
-            if (config.loop) {
-                $at.addClass('tve_anim_start');
-                if (trigger === 'mouseover') {
-                    $element.one('mouseleave', function () {
-                        $at.removeClass('tve_anim_start');
-                    });
-                }
-                if (trigger === 'tve-viewport') {
-                    $element.one('tve-viewport-leave', function () {
-                        /**
-                         * double check for viewport
-                         * animation in animation triggers weird behaviors
-                         */
-                        if (!TCB_Front.isInViewport($element)) {
-                            $at.removeClass('tve_anim_start');
-                        }
-                    });
-                }
-            } else {
-                setTimeout(function () {
-                    $at.addClass('tve_anim_start');
-                }, 50);
-            }
-            return false;
-        };</script>
+    <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=1371832563228056&ev=PageView&noscript=1" /></noscript>
+    <!-- End Meta Pixel Code -->
     <script src='https://www.calebismarketing.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4'
         id='imagesloaded-js'></script>
     <script src='https://www.calebismarketing.com/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
@@ -1660,4 +1742,3 @@
 
 </html>
 
-<!-- Page generated by LiteSpeed Cache 4.6 on 2022-05-06 15:37:48 -->
