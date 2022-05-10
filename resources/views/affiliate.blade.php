@@ -12,18 +12,38 @@
 <head>
     <meta charset="UTF-8" />
 
-    <title>This Century Old but Simple 3 Step System Will Make You As Much As ₦300-500k Monthly. | </title>
+    <title>The Real truth about making Money Online, especially through Affiliate Marketing | </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <meta name='robots' content='max-image-preview:large' />
 
-    <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Nwanneka Caleb &raquo; Feed"
-        href="https://www.calebismarketing.com/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Nwanneka Caleb &raquo; Comments Feed"
-        href="https://www.calebismarketing.com/comments/feed/" />
+    <!-- Meta Pixel Code -->
     <script>
-        window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/www.calebismarketing.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3" } };
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1371832563228056');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=1371832563228056&ev=PageView&noscript=1" /></noscript>
+    <!-- End Meta Pixel Code -->
+
+    <link rel='dns-prefetch' href='//s.w.org' />
+    <link rel="alternate" type="application/rss+xml" title="Cassandra David &raquo; Feed"
+        href="https://www.phenomenalcassandra.com/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Cassandra David &raquo; Comments Feed"
+        href="https://www.phenomenalcassandra.com/comments/feed/" />
+    <script>
+        window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/www.phenomenalcassandra.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3" } };
         /*! This file is auto-generated */
         !function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { var a = String.fromCharCode; p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0); e = i.toDataURL(); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (!p || !p.fillText) return !1; switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case "emoji": return !s([10084, 65039, 8205, 55357, 56613], [10084, 65039, 8203, 55357, 56613]) }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji))) }(window, document, window._wpemojiSettings);
     </script>
@@ -42,84 +62,52 @@
         }
     </style>
     <link rel='stylesheet' id='tve_landing_page_base_css-css'
-        href='https://www.calebismarketing.com/wp-content/plugins/thrive-visual-editor/landing-page/templates/css/base.css?ver=2.6.2.1'
+        href='https://www.phenomenalcassandra.com/wp-content/plugins/thrive-visual-editor/landing-page/templates/css/base.css?ver=2.6.2.1'
         media='all' />
-    <!-- Meta Pixel Code -->
-    <script>
-        !function (f, b, e, v, n, t, s) {
-            if (f.fbq) return; n = f.fbq = function () {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
-            n.queue = []; t = b.createElement(e); t.async = !0;
-            t.src = v; s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '1371832563228056');
-        fbq('track', 'PageView');
-    </script>
-    <noscript><img height="1" width="1" style="display:none"
-            src="https://www.facebook.com/tr?id=1371832563228056&ev=PageView&noscript=1" /></noscript>
-    <!-- End Meta Pixel Code -->
+
 
     <link rel='stylesheet' id='tve_style_family_tve_flt-css'
-        href='https://www.calebismarketing.com/wp-content/plugins/thrive-visual-editor/editor/css/thrive_flat.css?ver=2.6.2.1'
+        href='https://www.phenomenalcassandra.com/wp-content/plugins/thrive-visual-editor/editor/css/thrive_flat.css?ver=2.6.2.1'
         media='all' />
     <link rel='stylesheet' id='the_editor_no_theme-css'
-        href='https://www.calebismarketing.com/wp-content/plugins/thrive-visual-editor/editor/css/no-theme.css?ver=2.6.2.1'
+        href='https://www.phenomenalcassandra.com/wp-content/plugins/thrive-visual-editor/editor/css/no-theme.css?ver=2.6.2.1'
         media='all' />
-    <script src='https://www.calebismarketing.com/wp-includes/js/plupload/moxie.min.js?ver=1.3.5'
+    <script src='https://www.phenomenalcassandra.com/wp-includes/js/plupload/moxie.min.js?ver=1.3.5'
         id='moxiejs-js'></script>
-    <script src='https://www.calebismarketing.com/wp-includes/js/plupload/plupload.min.js?ver=2.1.9'
+    <script src='https://www.phenomenalcassandra.com/wp-includes/js/plupload/plupload.min.js?ver=2.1.9'
         id='plupload-js'></script>
-    <script src='https://www.calebismarketing.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0'
+    <script src='https://www.phenomenalcassandra.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0'
         id='jquery-core-js'></script>
-    <script src='https://www.calebismarketing.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2'
+    <script src='https://www.phenomenalcassandra.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2'
         id='jquery-migrate-js'></script>
-    <link rel="https://api.w.org/" href="https://www.calebismarketing.com/wp-json/" />
-    <link rel="alternate" type="application/json" href="https://www.calebismarketing.com/wp-json/wp/v2/pages/15" />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.calebismarketing.com/xmlrpc.php?rsd" />
+    <link rel="https://api.w.org/" href="https://www.phenomenalcassandra.com/wp-json/" />
+    <link rel="alternate" type="application/json" href="https://www.phenomenalcassandra.com/wp-json/wp/v2/pages/60" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD"
+        href="https://www.phenomenalcassandra.com/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml"
-        href="https://www.calebismarketing.com/wp-includes/wlwmanifest.xml" />
+        href="https://www.phenomenalcassandra.com/wp-includes/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 5.9.3" />
-    <link rel="canonical" href="https://www.calebismarketing.com/free-video-2/" />
-    <link rel='shortlink' href='https://www.calebismarketing.com/?p=15' />
+    <link rel="canonical" href="https://www.phenomenalcassandra.com/the-truth/" />
+    <link rel='shortlink' href='https://www.phenomenalcassandra.com/?p=60' />
     <link rel="alternate" type="application/json+oembed"
-        href="https://www.calebismarketing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.calebismarketing.com%2Ffree-video-2%2F" />
+        href="https://www.phenomenalcassandra.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.phenomenalcassandra.com%2Fthe-truth%2F" />
     <link rel="alternate" type="text/xml+oembed"
-        href="https://www.calebismarketing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.calebismarketing.com%2Ffree-video-2%2F&#038;format=xml" />
-    <meta name="facebook-domain-verification" content="ekdtzw8gq7v4fpwkf5758kayb1aa86" />
-    <!-- Meta Pixel Code -->
-    <script>
-        !function (f, b, e, v, n, t, s) {
-            if (f.fbq) return; n = f.fbq = function () {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
-            n.queue = []; t = b.createElement(e); t.async = !0;
-            t.src = v; s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '1371832563228056');
-        fbq('track', 'PageView');
-    </script>
-    <noscript><img height="1" width="1" style="display:none"
-            src="https://www.facebook.com/tr?id=1371832563228056&ev=PageView&noscript=1" /></noscript>
-    <!-- End Meta Pixel Code -->
+        href="https://www.phenomenalcassandra.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.phenomenalcassandra.com%2Fthe-truth%2F&#038;format=xml" />
+    <meta name="facebook-domain-verification" content="9qrexi0fkpb673zpflyradt0qqzitn" />
+    <meta name="facebook-domain-verification" content="9qrexi0fkpb673zpflyradt0qqzitn" />
     <style type="text/css" id="tve_global_variables">
-        :root {}
+        :root {
+            --tcb-color-0: rgb(255, 36, 36);
+        }
     </style>
     <link rel="preload"
-        href="https://www.calebismarketing.com/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2"
+        href="https://www.phenomenalcassandra.com/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2"
         as="font" type="font/woff2" crossorigin>
-
     <style type="text/css" class="tve_custom_style">
-        @import url("//fonts.googleapis.com/css?family=Benne:400,&subset=latin");
-        @import url("//fonts.googleapis.com/css?family=Nunito:400,600,800,900,300,700&subset=latin");
+        @import url("//fonts.googleapis.com/css?family=Nunito:400,600,300&subset=latin");
+        @import url("//fonts.googleapis.com/css?family=Roboto:400,700,500&subset=latin");
+        @import url("//fonts.googleapis.com/css?family=Jost:400,600&subset=latin");
+        @import url("//fonts.googleapis.com/css?family=ABeeZee:400,&subset=latin");
 
         @media (min-width: 300px) {
             #tcb_landing_page h3 strong {
@@ -127,11 +115,10 @@
             }
 
             #tcb_landing_page h3 {
-                font-family: Nunito;
+                font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                --tcb-typography-font-family: ABeeZee;
+                --g-regular-weight: 400;
                 color: rgb(0, 0, 0);
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
@@ -143,11 +130,10 @@
             }
 
             #tcb_landing_page h2 {
-                font-family: Nunito;
+                font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                --tcb-typography-font-family: ABeeZee;
+                --g-regular-weight: 400;
                 color: rgb(0, 0, 0);
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
@@ -159,11 +145,10 @@
             }
 
             #tcb_landing_page h1 {
-                font-family: Nunito;
+                font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                --tcb-typography-font-family: ABeeZee;
+                --g-regular-weight: 400;
                 color: rgb(0, 0, 0);
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
@@ -182,12 +167,11 @@
 
             #tcb_landing_page p {
                 color: rgb(0, 0, 0);
-                font-family: Nunito;
+                font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
                 font-size: 18px;
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                --tcb-typography-font-family: ABeeZee;
+                --g-regular-weight: 400;
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
                 --tcb-applied-color: rgb(0, 0, 0);
@@ -195,35 +179,172 @@
 
             #tcb_landing_page li:not([class*="menu"]) {
                 color: rgb(0, 0, 0);
-                font-family: Nunito;
+                font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
                 font-size: 18px;
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                --tcb-typography-font-family: ABeeZee;
+                --g-regular-weight: 400;
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
                 --tcb-applied-color: rgb(0, 0, 0);
             }
 
-            [data-css="tve-u-17e81fb008c"] {
-                max-width: 1099px;
+            [data-css="tve-u-180242e18a5"] {
+                max-width: 850px;
                 --tve-alignment: center;
                 float: none;
                 margin-left: auto !important;
                 margin-right: auto !important;
-                margin-top: 20px !important;
-                padding-top: 0px !important;
-                padding-bottom: 0px !important;
             }
 
-            [data-css="tve-u-17e81fb4a4c"] {
-                background-image: linear-gradient(rgb(0, 75, 168), rgb(0, 75, 168)) !important;
+            [data-css="tve-u-18024306b26"] {
+                background-image: linear-gradient(rgb(47, 16, 0), rgb(47, 16, 0)) !important;
                 background-size: auto !important;
                 background-position: 50% 50% !important;
                 background-attachment: scroll !important;
                 background-repeat: no-repeat !important;
-                --tve-applied-background-image: linear-gradient(rgb(0, 75, 168), rgb(0, 75, 168)) !important;
+                --tve-applied-background-image: linear-gradient(rgb(47, 16, 0), rgb(47, 16, 0)) !important;
+            }
+
+            :not(#tve) [data-css="tve-u-1802430cedc"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 600;
+                text-shadow: rgba(192, 192, 192, 0.25) 3px 3px 2px;
+                --tve-applied-text-shadow: 3px 3px 2px rgba(192, 192, 192, 0.25);
+                font-size: 31px !important;
+                color: rgb(255, 255, 255) !important;
+                --tcb-applied-color: rgb(255, 255, 255) !important;
+                --tve-applied-color: rgb(255, 255, 255) !important;
+                font-family: Jost !important;
+                font-weight: var(--g-regular-weight, normal) !important;
+            }
+
+            :not(#tve) [data-css="tve-u-1802430cedc"] strong {
+                font-weight: 600 !important;
+            }
+
+            [data-css="tve-u-1802433ed80"] {
+                padding-top: 0px !important;
+                margin-top: 31px !important;
+                box-shadow: none !important;
+                --tve-applied-box-shadow: none !important;
+            }
+
+            :not(#tve) [data-css="tve-u-1802434f41e"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 600;
+                font-size: 31px !important;
+                color: rgb(0, 0, 0) !important;
+                --tcb-applied-color: rgb(0, 0, 0) !important;
+                --tve-applied-color: rgb(0, 0, 0) !important;
+                font-family: Jost !important;
+                font-weight: var(--g-regular-weight, normal) !important;
+            }
+
+            :not(#tve) [data-css="tve-u-1802434f41e"] strong {
+                font-weight: 600 !important;
+            }
+
+            [data-css="tve-u-18024366ca2"] {
+                --tve-border-radius: 8px;
+                overflow: hidden;
+                box-shadow: rgba(255, 181, 99, 0.21) 0px 6px 15px 0px !important;
+                --tve-applied-box-shadow: 0px 6px 15px 0px rgba(255, 181, 99, 0.21) !important;
+                border-radius: 8px !important;
+                background-image: linear-gradient(rgb(248, 165, 73), rgb(248, 165, 73)) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: no-repeat !important;
+                --tve-applied-background-image: linear-gradient(rgb(248, 165, 73), rgb(248, 165, 73)) !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180243e4408"] {
+                --g-regular-weight: 300;
+                --g-bold-weight: 600;
+                color: rgb(255, 255, 255) !important;
+                --tcb-applied-color: rgb(255, 255, 255) !important;
+                --tve-applied-color: rgb(255, 255, 255) !important;
+                font-family: Nunito !important;
+                font-weight: var(--g-regular-weight, normal) !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180243e4408"] strong {
+                font-weight: 600 !important;
+            }
+
+            [data-css="tve-u-180243eb50b"] {
+                margin-top: 32px !important;
+            }
+
+            [data-css="tve-u-180243f9a13"] {
+                max-width: 850px;
+                --tve-alignment: center;
+                float: none;
+                margin: 50px auto !important;
+            }
+
+            [data-css="tve-u-18024400b52"] {
+                --tve-border-radius: 8px;
+                border-radius: 8px;
+                overflow: hidden;
+                --tve-border-width: 1px;
+                box-shadow: rgba(0, 0, 0, 0.25) 0px 8px 12px 0px;
+                --tve-applied-box-shadow: 0px 8px 12px 0px rgba(0, 0, 0, 0.25);
+                border: 1px solid rgb(0, 0, 0) !important;
+                --tve-applied-border: 1px solid rgb(0, 0, 0) !important;
+                background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: no-repeat !important;
+                --tve-applied-background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) !important;
+            }
+
+            [data-css="tve-u-1802440d5e3"] {
+                background-image: linear-gradient(rgba(232, 232, 232, 0.5), rgba(232, 232, 232, 0.5)) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: no-repeat !important;
+                --tve-applied-background-image: linear-gradient(rgba(232, 232, 232, 0.5), rgba(232, 232, 232, 0.5)) !important;
+            }
+
+            [data-css="tve-u-18024433be3"] {
+                color: rgb(0, 0, 0) !important;
+                font-family: ABeeZee !important;
+            }
+
+            [data-css="tve-u-18024433be5"] {
+                color: rgb(0, 0, 0) !important;
+            }
+
+            [data-css="tve-u-18024433be7"] {
+                color: rgb(0, 0, 0) !important;
+            }
+
+            [data-css="tve-u-18024433be8"] {
+                color: rgb(0, 0, 0) !important;
+            }
+
+            [data-css="tve-u-18024433be9"] {
+                color: rgb(0, 0, 0) !important;
+            }
+
+            [data-css="tve-u-18024434ed2"] {
+                font-family: ABeeZee !important;
+            }
+
+            [data-css="tve-u-18024434ed5"] {
+                font-family: ABeeZee !important;
+            }
+
+            [data-css="tve-u-18024434ed7"] {
+                font-family: ABeeZee !important;
+            }
+
+            [data-css="tve-u-18024434ed9"] {
+                font-family: ABeeZee !important;
             }
 
             #tcb_landing_page ul:not([class*="menu"]),
@@ -232,11 +353,10 @@
                 padding-bottom: 16px;
                 margin-top: 0px;
                 margin-bottom: 0px;
-                font-family: Nunito;
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                font-family: ABeeZee;
+                --tcb-typography-font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
+                --g-regular-weight: 400;
                 color: rgb(0, 0, 0);
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
@@ -247,11 +367,10 @@
             #tcb_landing_page .tcb-styled-list a,
             #tcb_landing_page .tcb-numbered-list a,
             #tcb_landing_page .tve-input-option-text a {
-                font-family: Nunito;
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                font-family: ABeeZee;
+                --tcb-typography-font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
+                --g-regular-weight: 400;
                 color: rgb(0, 0, 0);
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
@@ -259,11 +378,10 @@
             }
 
             #tcb_landing_page pre {
-                font-family: Nunito;
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                font-family: ABeeZee;
+                --tcb-typography-font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
+                --g-regular-weight: 400;
                 color: rgb(0, 0, 0);
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
@@ -271,11 +389,10 @@
             }
 
             #tcb_landing_page blockquote {
-                font-family: Nunito;
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                font-family: ABeeZee;
+                --tcb-typography-font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
+                --g-regular-weight: 400;
                 color: rgb(0, 0, 0);
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
@@ -283,11 +400,10 @@
             }
 
             .tve_lp .tcb-plain-text {
-                font-family: Nunito;
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                font-family: ABeeZee;
+                --tcb-typography-font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
+                --g-regular-weight: 400;
                 color: rgb(0, 0, 0);
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
@@ -295,11 +411,10 @@
             }
 
             #tcb_landing_page h4 {
-                font-family: Nunito;
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                font-family: ABeeZee;
+                --tcb-typography-font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
+                --g-regular-weight: 400;
                 color: rgb(0, 0, 0);
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
@@ -307,11 +422,10 @@
             }
 
             #tcb_landing_page h5 {
-                font-family: Nunito;
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                font-family: ABeeZee;
+                --tcb-typography-font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
+                --g-regular-weight: 400;
                 color: rgb(0, 0, 0);
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
@@ -319,795 +433,970 @@
             }
 
             #tcb_landing_page h6 {
-                font-family: Nunito;
-                --tcb-typography-font-family: Nunito;
-                --g-regular-weight: 300;
-                --g-bold-weight: 600;
+                font-family: ABeeZee;
+                --tcb-typography-font-family: ABeeZee;
                 font-weight: var(--g-regular-weight, normal);
+                --g-regular-weight: 400;
                 color: rgb(0, 0, 0);
                 --tcb-typography-color: rgb(0, 0, 0);
                 --tve-applied-color: rgb(0, 0, 0);
                 --tcb-applied-color: rgb(0, 0, 0);
             }
 
-            :not(#tve) [data-css="tve-u-17e81fd8b75"] {
-                --g-regular-weight: 300;
-                --g-bold-weight: 800;
-                font-size: 44px !important;
-                font-family: Nunito !important;
-                font-weight: var(--g-regular-weight, normal) !important;
-                color: rgb(255, 255, 255) !important;
-                --tcb-applied-color: rgb(255, 255, 255) !important;
-                --tve-applied-color: rgb(255, 255, 255) !important;
+            :not(#tve) [data-css="tve-u-18024441be7"] {
+                letter-spacing: 2px;
+                font-size: 24px !important;
+                line-height: 1.5em !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e81fd8b75"] strong {
-                font-weight: 800 !important;
+            :not(#tve) [data-css="tve-u-18024446650"] {
+                letter-spacing: 2px;
+                font-size: 21px !important;
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e820001c9"] {
-                max-width: 850px;
-                --tve-alignment: center;
-                float: none;
-                margin-left: auto !important;
-                margin-right: auto !important;
+            [data-css="tve-u-1802448aeca"] {
+                --tcb-local-color-icon: rgb(0, 255, 39);
+                --tcb-local-color-var: rgb(0, 255, 39);
+                --tve-icon-size: 30px;
+                font-size: 30px;
+                width: 30px;
+                height: 30px;
+                padding-top: 5px !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e8200a32b"] {
-                --g-regular-weight: 300;
-                --g-bold-weight: 700;
-                font-family: Nunito !important;
-                font-weight: var(--g-regular-weight, normal) !important;
-                font-size: 38px !important;
-                color: rgb(0, 1, 4) !important;
-                --tcb-applied-color: rgb(0, 1, 4) !important;
-                --tve-applied-color: rgb(0, 1, 4) !important;
+            :not(#tve) [data-css="tve-u-180244c8b31"] {
+                line-height: 1.5em !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e8200a32b"] strong {
-                font-weight: 700 !important;
+            :not(#tve) [data-css="tve-u-180244c8b33"] {
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e82023b7d"] {
-                font-family: Nunito !important;
-                font-weight: 700 !important;
-                color: rgb(225, 0, 0) !important;
+            :not(#tve) [data-css="tve-u-180244c8b34"] {
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e82023b7d"] strong {
-                font-weight: 800 !important;
+            :not(#tve) [data-css="tve-u-180244c8b36"] {
+                line-height: 1.5em !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e8203eabf"] {
-                font-family: Benne !important;
-                font-weight: var(--g-regular-weight, normal) !important;
-                font-size: 22px !important;
-                color: rgb(0, 1, 4) !important;
-                --tcb-applied-color: rgb(0, 1, 4) !important;
-                --tve-applied-color: rgb(0, 1, 4) !important;
-                line-height: 1.25em !important;
+            :not(#tve) [data-css="tve-u-180244c8b37"] {
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e8203ead9"] {
-                color: rgb(225, 0, 0) !important;
+            :not(#tve) [data-css="tve-u-180244c8b38"] {
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e8203ead9"] strong {
-                font-weight: 800 !important;
+            :not(#tve) [data-css="tve-u-180244c8b3c"] {
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e82054e0d"] {
-                margin-top: 22px !important;
+            :not(#tve) [data-css="tve-u-180244c8b3d"] {
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e8205b3a9"] {
-                text-decoration: underline !important;
-                color: rgb(3, 194, 32) !important;
+            :not(#tve) [data-css="tve-u-180244c8b3e"] {
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e82087fe8"] {
-                width: 47%;
-                --tve-alignment: center;
-                float: none;
-                --tve-border-width: 3px;
-                border: 3px solid rgb(0, 75, 168);
-                --tve-applied-border: 3px solid rgb(0, 75, 168);
-                --tve-border-radius: 7px;
-                border-radius: 7px;
-                overflow: hidden;
-                margin-left: auto !important;
-                margin-right: auto !important;
+            :not(#tve) [data-css="tve-u-180244c8b40"] {
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e8208df3d"] {
-                margin-top: 0px;
-                margin-left: 0px;
+            :not(#tve) [data-css="tve-u-180244c8b41"] {
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e820a4536"] .tcb-button-link {
+            :not(#tve) [data-css="tve-u-180244c8b42"] {
+                line-height: 1.5em !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180244c8b43"] {
+                line-height: 1.5em !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180244c8b44"] {
+                line-height: 1.5em !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180244cd445"] {
+                line-height: 1.5em !important;
+            }
+
+            [data-css="tve-u-1802451e69a"] .tcb-button-link {
                 letter-spacing: var(--tve-letter-spacing, 2px);
-                border-radius: 5px;
-                overflow: hidden;
-                box-shadow: rgba(0, 0, 0, 0.25) 1px 8px 12px 0px;
-                --tve-applied-box-shadow: 1px 8px 12px 0px rgba(0, 0, 0, 0.25);
-                background-color: var(--tcb-local-color-45721) !important;
-                padding: 22px !important;
-                background-image: none !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e820a4536"] .tcb-button-link {
-                font-size: var(--tve-font-size, 16px) !important;
-            }
-
-            [data-css="tve-u-17e820a4536"] {
-                --tve-font-size: 16px;
-                --tve-font-weight: var(--g-regular-weight, normal);
-                --tve-letter-spacing: 2px;
-                --tcb-local-color-b9181: rgb(19, 114, 211);
-                --tve-alignment: center;
-                float: none;
-                display: block;
-                max-width: 100%;
-                width: 100%;
-                --tve-border-radius: 5px;
-                --tcb-local-color-45721: rgb(0, 188, 0) !important;
-                margin-left: auto !important;
-                margin-right: auto !important;
-                margin-top: 40px !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e820a4536"] .tcb-button-link span {
-                font-weight: var(--tve-font-weight, var(--g-regular-weight, normal));
-            }
-
-            :not(#tve) [data-css="tve-u-17e820a4536"]:hover .tcb-button-link {
-                background-image: linear-gradient(rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.08)) !important;
+                background-color: var(--tcb-local-color-63b2c) !important;
+                padding: 20px !important;
+                background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.06) 3px, transparent 3px, transparent 6px) !important;
                 background-size: auto !important;
                 background-position: 50% 50% !important;
                 background-attachment: scroll !important;
-                background-repeat: no-repeat !important;
-                background-color: var(--tcb-local-color-45721) !important;
+                background-repeat: repeat !important;
             }
 
-            [data-css="tve-u-17e820a8f8e"] {
-                max-width: 850px;
+            :not(#tve) [data-css="tve-u-1802451e69a"] .tcb-button-link {
+                font-size: var(--tve-font-size, 18px) !important;
+            }
+
+            [data-css="tve-u-1802451e69a"] {
+                --tve-font-size: 18px;
+                --tve-letter-spacing: 2px;
+                --tve-font-weight: var(--g-bold-weight, bold);
+                --tcb-local-color-be811: rgb(19, 114, 211);
                 --tve-alignment: center;
                 float: none;
-                margin-left: auto !important;
-                margin-right: auto !important;
-                padding-top: 0px !important;
-                margin-top: -50px !important;
+                display: block;
+                max-width: 83%;
+                width: 83%;
+                --tcb-local-color-63b2c: rgb(176, 12, 12) !important;
+                margin: 30px auto !important;
             }
 
-            [data-css="tve-u-17e820aac48"] {
-                --tcb-local-color-icon: rgb(255, 255, 255);
-                --tcb-local-color-var: rgb(255, 255, 255);
-                --tve-icon-size: 38px;
-                font-size: 38px;
-                width: 38px;
-                height: 38px;
+            :not(#tve) [data-css="tve-u-1802451e69a"]:hover .tcb-button-link {
+                background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1) 3px, transparent 3px, transparent 6px) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: repeat !important;
+                border-radius: 3px !important;
+                overflow: hidden !important;
+                background-color: var(--tcb-local-color-63b2c) !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e820dae85"] {
-                --g-regular-weight: 400;
-                --g-bold-weight: 800;
-                letter-spacing: 1px;
-                font-size: 30px !important;
-                font-family: Nunito !important;
-                font-weight: var(--g-regular-weight, normal) !important;
+            :not(#tve) [data-css="tve-u-1802451e69a"] .tcb-button-link span {
+                font-weight: var(--tve-font-weight, var(--g-bold-weight, bold));
             }
 
-            [data-css="tve-u-17e820dae85"] strong {
-                font-weight: 800 !important;
+            :not(#tve) [data-css="tve-u-1802452a309"] {
+                font-size: 29px !important;
             }
 
-            [data-css="tve-u-17e821245d3"] {
-                width: 183px;
+            :not(#tve) [data-css="tve-u-18024543a3b"] {
+                line-height: 1.5em !important;
+            }
+
+            :not(#tve) [data-css="tve-u-18024543a3d"] {
+                line-height: 1.5em !important;
+            }
+
+            :not(#tve) [data-css="tve-u-18024543a3e"] {
+                line-height: 1.5em !important;
+            }
+
+            :not(#tve) [data-css="tve-u-18024543a40"] {
+                line-height: 1.5em !important;
+            }
+
+            :not(#tve) [data-css="tve-u-18024543a41"] {
+                line-height: 1.5em !important;
+            }
+
+            [data-css="tve-u-18024555508"] {
+                width: 625px;
                 --tve-alignment: center;
                 float: none;
+                --tve-border-width: 2px;
+                border: 2px solid rgb(0, 0, 0);
+                --tve-applied-border: 2px solid rgb(0, 0, 0);
                 margin-left: auto !important;
                 margin-right: auto !important;
             }
 
-            [data-css="tve-u-17e821255c5"] {
+            [data-css="tve-u-18024556a31"] {
                 margin-top: 0px;
             }
 
-            [data-css="tve-u-17e82154f11"] {
-                max-width: 850px;
+            [data-css="tve-u-180245a63f8"] {
+                margin-top: 0px;
+            }
+
+            [data-css="tve-u-180245c64af"] .tcb-button-link {
+                letter-spacing: var(--tve-letter-spacing, 2px);
+                background-color: var(--tcb-local-color-63b2c) !important;
+                padding: 20px !important;
+                background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.06) 3px, transparent 3px, transparent 6px) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: repeat !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180245c64af"] .tcb-button-link {
+                font-size: var(--tve-font-size, 18px) !important;
+            }
+
+            [data-css="tve-u-180245c64af"] {
+                --tve-font-size: 18px;
+                --tve-letter-spacing: 2px;
+                --tve-font-weight: var(--g-bold-weight, bold);
+                --tcb-local-color-be811: rgb(19, 114, 211);
                 --tve-alignment: center;
                 float: none;
+                display: block;
+                max-width: 83%;
+                width: 83%;
+                --tcb-local-color-63b2c: rgb(176, 12, 12) !important;
+                margin: 30px auto !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180245c64af"]:hover .tcb-button-link {
+                background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1) 3px, transparent 3px, transparent 6px) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: repeat !important;
+                border-radius: 3px !important;
+                overflow: hidden !important;
+                background-color: var(--tcb-local-color-63b2c) !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180245c64af"] .tcb-button-link span {
+                font-weight: var(--tve-font-weight, var(--g-bold-weight, bold));
+            }
+
+            :not(#tve) [data-css="tve-u-180245c64b1"] {
+                font-size: 29px !important;
+            }
+
+            [data-css="tve-u-180245fcccf"] {
+                --tcb-local-color-icon: rgb(0, 0, 0);
+                --tcb-local-color-var: rgb(0, 0, 0);
+                --tve-icon-size: 18px;
+            }
+
+            [data-css="tve-u-180245fccd4"] {
+                --tcb-local-color-icon: rgb(0, 0, 0);
+                --tcb-local-color-var: rgb(0, 0, 0);
+                --tve-icon-size: 18px;
+            }
+
+            [data-css="tve-u-180245fccd8"] {
+                --tcb-local-color-icon: rgb(0, 0, 0);
+                --tcb-local-color-var: rgb(0, 0, 0);
+                --tve-icon-size: 18px;
+            }
+
+            [data-css="tve-u-18024603143"] {
+                --tcb-local-color-icon: rgb(0, 255, 39);
+                --tcb-local-color-var: rgb(0, 255, 39);
+                --tve-icon-size: 30px;
+                font-size: 30px;
+                width: 30px;
+                height: 30px;
+                padding-top: 5px !important;
+            }
+
+            [data-css="tve-u-180246033dd"] {
+                --tcb-local-color-icon: rgb(0, 255, 39);
+                --tcb-local-color-var: rgb(0, 255, 39);
+                --tve-icon-size: 30px;
+                font-size: 30px;
+                width: 30px;
+                height: 30px;
+                padding-top: 5px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-1802448aeca"]> :first-child {
+                color: rgb(0, 255, 39);
+                --tve-applied-color: rgb(0, 255, 39);
+            }
+
+            :not(#tve) [data-css="tve-u-18024603143"]> :first-child {
+                color: rgb(0, 255, 39);
+                --tve-applied-color: rgb(0, 255, 39);
+            }
+
+            :not(#tve) [data-css="tve-u-180246033dd"]> :first-child {
+                color: rgb(0, 255, 39);
+                --tve-applied-color: rgb(0, 255, 39);
+            }
+
+            :not(#tve) [data-css="tve-u-1802465ac1b"] {
+                font-size: 19px !important;
+            }
+
+            [data-css="tve-u-18024675032"] {
+                margin-top: 0px;
+            }
+
+            [data-css="tve-u-1802467e879"] {
+                width: 230px;
+                --tve-alignment: center;
+                float: none;
+                --tve-border-radius: 257px;
+                border-radius: 257px;
+                overflow: hidden;
+                --tve-border-width: 3px;
+                border: 3px solid rgb(0, 0, 0);
+                --tve-applied-border: 3px solid rgb(0, 0, 0);
                 margin-left: auto !important;
                 margin-right: auto !important;
             }
 
-            [data-css="tve-u-17e8215ec5c"] {
-                color: rgb(0, 0, 0) !important;
+            [data-css="tve-u-1802468028f"] {
+                margin-top: 0px;
             }
 
-            [data-css="tve-u-17e8215ec5e"] {
-                color: rgb(0, 0, 0) !important;
+            [data-css="tve-u-1802469d80b"] .tcb-button-link {
+                letter-spacing: var(--tve-letter-spacing, 2px);
+                background-color: var(--tcb-local-color-63b2c) !important;
+                padding: 20px !important;
+                background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.06) 3px, transparent 3px, transparent 6px) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: repeat !important;
             }
 
-            [data-css="tve-u-17e8215ec60"] {
-                color: rgb(0, 0, 0) !important;
+            :not(#tve) [data-css="tve-u-1802469d80b"] .tcb-button-link {
+                font-size: var(--tve-font-size, 18px) !important;
             }
 
-            [data-css="tve-u-17e8215ec61"] {
-                color: rgb(0, 0, 0) !important;
-            }
-
-            [data-css="tve-u-17e8215ec63"] {
-                color: rgb(0, 0, 0) !important;
-            }
-
-            [data-css="tve-u-17e8215ec68"] {
-                color: rgb(0, 0, 0) !important;
-            }
-
-            [data-css="tve-u-17e821c66ae"] {
+            [data-css="tve-u-1802469d80b"] {
+                --tve-font-size: 18px;
+                --tve-letter-spacing: 2px;
+                --tve-font-weight: var(--g-bold-weight, bold);
+                --tcb-local-color-be811: rgb(19, 114, 211);
                 --tve-alignment: center;
                 float: none;
-                --tve-border-radius: 8px;
-                border-radius: 8px;
+                display: block;
+                max-width: 83%;
+                width: 83%;
+                --tcb-local-color-63b2c: rgb(176, 12, 12) !important;
+                margin: 30px auto !important;
+            }
+
+            :not(#tve) [data-css="tve-u-1802469d80b"]:hover .tcb-button-link {
+                background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1) 3px, transparent 3px, transparent 6px) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: repeat !important;
+                border-radius: 3px !important;
+                overflow: hidden !important;
+                background-color: var(--tcb-local-color-63b2c) !important;
+            }
+
+            :not(#tve) [data-css="tve-u-1802469d80b"] .tcb-button-link span {
+                font-weight: var(--tve-font-weight, var(--g-bold-weight, bold));
+            }
+
+            :not(#tve) [data-css="tve-u-1802469d80d"] {
+                font-size: 29px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180246b9870"] {
+                line-height: 1.5em !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180246cb187"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 600;
+                font-family: Jost !important;
+                font-weight: var(--g-regular-weight, normal) !important;
+                font-size: 28px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180246cb187"] strong {
+                font-weight: 600 !important;
+            }
+
+            [data-css="tve-u-180246e8ebd"] .tcb-button-link {
+                letter-spacing: var(--tve-letter-spacing, 2px);
+                background-color: var(--tcb-local-color-63b2c) !important;
+                padding: 20px !important;
+                background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.06) 3px, transparent 3px, transparent 6px) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: repeat !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180246e8ebd"] .tcb-button-link {
+                font-size: var(--tve-font-size, 18px) !important;
+            }
+
+            [data-css="tve-u-180246e8ebd"] {
+                --tve-font-size: 18px;
+                --tve-letter-spacing: 2px;
+                --tve-font-weight: var(--g-bold-weight, bold);
+                --tcb-local-color-be811: rgb(19, 114, 211);
+                --tve-alignment: center;
+                float: none;
+                display: block;
+                max-width: 83%;
+                width: 83%;
+                --tcb-local-color-63b2c: rgb(176, 12, 12) !important;
+                margin: 7px auto 30px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180246e8ebd"]:hover .tcb-button-link {
+                background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1) 3px, transparent 3px, transparent 6px) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: repeat !important;
+                border-radius: 3px !important;
+                overflow: hidden !important;
+                background-color: var(--tcb-local-color-63b2c) !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180246e8ebd"] .tcb-button-link span {
+                font-weight: var(--tve-font-weight, var(--g-bold-weight, bold));
+            }
+
+            :not(#tve) [data-css="tve-u-180246e8ec0"] {
+                font-size: 29px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180246f49c0"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 600;
+                line-height: 1.5em !important;
+                font-family: Jost !important;
+                font-weight: var(--g-regular-weight, normal) !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180246f49c0"] strong {
+                font-weight: 600 !important;
+            }
+
+            [data-css="tve-u-180246f8b65"] {
+                margin-top: 34px !important;
+            }
+
+            [data-css="tve-u-1802471401f"] {
+                --tve-border-width: 2px;
+                border: 2px solid rgb(0, 0, 0);
+                --tve-applied-border: 2px solid rgb(0, 0, 0);
+                --tve-border-radius: 3px;
+                border-radius: 3px;
                 overflow: hidden;
-                box-shadow: rgba(0, 0, 0, 0.25) 4px 7px 12px 0px;
-                --tve-applied-box-shadow: 4px 7px 12px 0px rgba(0, 0, 0, 0.25);
+            }
+
+            [data-css="tve-u-1802473391d"] .tcb-button-link {
+                letter-spacing: var(--tve-letter-spacing, 2px);
+                background-color: var(--tcb-local-color-63b2c) !important;
+                padding: 20px !important;
+                background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.06) 3px, transparent 3px, transparent 6px) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: repeat !important;
+            }
+
+            :not(#tve) [data-css="tve-u-1802473391d"] .tcb-button-link {
+                font-size: var(--tve-font-size, 18px) !important;
+            }
+
+            [data-css="tve-u-1802473391d"] {
+                --tve-font-size: 18px;
+                --tve-letter-spacing: 2px;
+                --tve-font-weight: var(--g-bold-weight, bold);
+                --tcb-local-color-be811: rgb(19, 114, 211);
+                --tve-alignment: center;
+                float: none;
+                display: block;
+                max-width: 83%;
+                width: 83%;
+                --tcb-local-color-63b2c: rgb(176, 12, 12) !important;
+                margin: 30px auto !important;
+            }
+
+            :not(#tve) [data-css="tve-u-1802473391d"]:hover .tcb-button-link {
+                background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1) 3px, transparent 3px, transparent 6px) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: repeat !important;
+                border-radius: 3px !important;
+                overflow: hidden !important;
+                background-color: var(--tcb-local-color-63b2c) !important;
+            }
+
+            :not(#tve) [data-css="tve-u-1802473391d"] .tcb-button-link span {
+                font-weight: var(--tve-font-weight, var(--g-bold-weight, bold));
+            }
+
+            :not(#tve) [data-css="tve-u-18024733920"] {
+                font-size: 29px !important;
+            }
+
+            [data-css="tve-u-18024794b30"] .tcb-button-link {
+                letter-spacing: var(--tve-letter-spacing, 2px);
+                background-color: var(--tcb-local-color-63b2c) !important;
+                padding: 20px !important;
+                background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.06) 3px, transparent 3px, transparent 6px) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: repeat !important;
+            }
+
+            :not(#tve) [data-css="tve-u-18024794b30"] .tcb-button-link {
+                font-size: var(--tve-font-size, 18px) !important;
+            }
+
+            [data-css="tve-u-18024794b30"] {
+                --tve-font-size: 18px;
+                --tve-letter-spacing: 2px;
+                --tve-font-weight: var(--g-bold-weight, bold);
+                --tcb-local-color-be811: rgb(19, 114, 211);
+                --tve-alignment: center;
+                float: none;
+                display: block;
+                max-width: 83%;
+                width: 83%;
+                --tcb-local-color-63b2c: rgb(176, 12, 12) !important;
+                margin: 30px auto !important;
+            }
+
+            :not(#tve) [data-css="tve-u-18024794b30"]:hover .tcb-button-link {
+                background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1) 3px, transparent 3px, transparent 6px) !important;
+                background-size: auto !important;
+                background-position: 50% 50% !important;
+                background-attachment: scroll !important;
+                background-repeat: repeat !important;
+                border-radius: 3px !important;
+                overflow: hidden !important;
+                background-color: var(--tcb-local-color-63b2c) !important;
+            }
+
+            :not(#tve) [data-css="tve-u-18024794b30"] .tcb-button-link span {
+                font-weight: var(--tve-font-weight, var(--g-bold-weight, bold));
+            }
+
+            :not(#tve) [data-css="tve-u-18024794b33"] {
+                font-size: 29px !important;
+            }
+
+            [data-css="tve-u-1802479fd40"] {
                 background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)) !important;
                 background-size: auto !important;
                 background-position: 50% 50% !important;
                 background-attachment: scroll !important;
                 background-repeat: no-repeat !important;
                 --tve-applied-background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)) !important;
-                margin-left: auto !important;
-                margin-right: auto !important;
-                margin-bottom: 40px !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e821c70a2"] {
-                --g-regular-weight: 300;
-                font-weight: var(--g-regular-weight, normal) !important;
+            [data-css="tve-u-180247b109e"] {
                 color: rgb(255, 255, 255) !important;
-                --tcb-applied-color: rgb(255, 255, 255) !important;
-                --tve-applied-color: rgb(255, 255, 255) !important;
             }
 
-            [data-css="tve-u-17e821c6ec9"] {
-                --tcb-local-color-icon: rgb(0, 252, 61);
-                --tcb-local-color-var: rgb(0, 252, 61);
-                --tve-icon-size: 25px;
-                font-size: 25px;
-                width: 25px;
-                height: 25px;
+            [data-css="tve-u-180247b10a0"] {
+                color: rgb(255, 255, 255) !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e821c6ec9"]> :first-child {
-                color: rgb(0, 252, 61);
-                --tve-applied-color: rgb(0, 252, 61);
+            [data-css="tve-u-180247b10a1"] {
+                color: rgb(255, 255, 255) !important;
             }
 
-            [data-css="tve-u-17e821c70a2"] {
-                line-height: 2.4em !important;
+            [data-css="tve-u-180247b10a3"] {
+                color: rgb(255, 255, 255) !important;
             }
 
-            [data-css="tve-u-17e82200799"] {
-                margin-top: 20px !important;
-                margin-bottom: 20px !important;
+            [data-css="tve-u-180247b10a4"] {
+                color: rgb(255, 255, 255) !important;
             }
 
-            [data-css="tve-u-17e82206290"] .tcb-button-link {
-                letter-spacing: var(--tve-letter-spacing, 2px);
-                border-radius: 5px;
-                overflow: hidden;
-                box-shadow: rgba(0, 0, 0, 0.25) 1px 8px 12px 0px;
-                --tve-applied-box-shadow: 1px 8px 12px 0px rgba(0, 0, 0, 0.25);
-                background-color: var(--tcb-local-color-45721) !important;
-                padding: 22px !important;
-                background-image: none !important;
+            [data-css="tve-u-180247b10a5"] {
+                color: rgb(255, 255, 255) !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e82206290"] .tcb-button-link {
-                font-size: var(--tve-font-size, 16px) !important;
+            [data-css="tve-u-180247b10a7"] {
+                color: rgb(255, 255, 255) !important;
             }
 
-            [data-css="tve-u-17e82206290"] {
-                --tve-font-size: 16px;
-                --tve-font-weight: var(--g-regular-weight, normal);
-                --tve-letter-spacing: 2px;
-                --tcb-local-color-b9181: rgb(19, 114, 211);
-                --tve-alignment: center;
-                float: none;
-                display: block;
-                max-width: 100%;
-                width: 100%;
-                --tve-border-radius: 5px;
-                --tcb-local-color-45721: rgb(0, 188, 0) !important;
-                margin-left: auto !important;
-                margin-right: auto !important;
-                margin-top: 0px !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e82206290"] .tcb-button-link span {
-                font-weight: var(--tve-font-weight, var(--g-regular-weight, normal));
-            }
-
-            :not(#tve) [data-css="tve-u-17e82206290"]:hover .tcb-button-link {
-                background-image: linear-gradient(rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.08)) !important;
-                background-size: auto !important;
-                background-position: 50% 50% !important;
-                background-attachment: scroll !important;
-                background-repeat: no-repeat !important;
-                background-color: var(--tcb-local-color-45721) !important;
-            }
-
-            [data-css="tve-u-17e82206296"] {
-                --tcb-local-color-icon: rgb(255, 255, 255);
-                --tcb-local-color-var: rgb(255, 255, 255);
-                --tve-icon-size: 38px;
-                font-size: 38px;
-                width: 38px;
-                height: 38px;
-            }
-
-            :not(#tve) [data-css="tve-u-17e8220629a"] {
+            :not(#tve) [data-css="tve-u-180247b3f89"] {
                 --g-regular-weight: 400;
-                --g-bold-weight: 800;
-                letter-spacing: 1px;
-                font-size: 30px !important;
+                --g-bold-weight: 600;
                 font-family: Nunito !important;
                 font-weight: var(--g-regular-weight, normal) !important;
+                font-size: 10px !important;
             }
 
-            [data-css="tve-u-17e8220629a"] strong {
-                font-weight: 800 !important;
-            }
-
-            [data-css="tve-u-17e8223d27a"] {
-                color: rgb(222, 1, 1) !important;
-            }
-
-            [data-css="tve-u-17e822403cc"] {
-                color: rgb(222, 1, 1) !important;
-            }
-
-            [data-css="tve-u-17e82244231"] {
-                color: rgb(222, 1, 1) !important;
-            }
-
-            [data-css="tve-u-17e8225a46c"] {
-                font-family: Nunito !important;
-                font-weight: 700 !important;
-                color: rgb(0, 0, 0) !important;
-            }
-
-            [data-css="tve-u-17e8225a46c"] strong {
-                font-weight: 800 !important;
-            }
-
-            [data-css="tve-u-17e82267d28"] {
-                text-decoration: underline !important;
-                color: rgb(214, 23, 23) !important;
-            }
-
-            [data-css="tve-u-17e8226b23c"] {
-                color: rgb(0, 203, 18) !important;
-            }
-
-            [data-css="tve-u-17e82297572"] .tcb-button-link {
-                letter-spacing: var(--tve-letter-spacing, 2px);
-                border-radius: 5px;
-                overflow: hidden;
-                box-shadow: rgba(0, 0, 0, 0.25) 1px 8px 12px 0px;
-                --tve-applied-box-shadow: 1px 8px 12px 0px rgba(0, 0, 0, 0.25);
-                background-color: var(--tcb-local-color-45721) !important;
-                padding: 22px !important;
-                background-image: none !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e82297572"] .tcb-button-link {
-                font-size: var(--tve-font-size, 16px) !important;
-            }
-
-            [data-css="tve-u-17e82297572"] {
-                --tve-font-size: 16px;
-                --tve-font-weight: var(--g-regular-weight, normal);
-                --tve-letter-spacing: 2px;
-                --tcb-local-color-b9181: rgb(19, 114, 211);
-                --tve-alignment: center;
-                float: none;
-                display: block;
-                max-width: 100%;
-                width: 100%;
-                --tve-border-radius: 5px;
-                --tcb-local-color-45721: rgb(0, 188, 0) !important;
-                margin: 40px auto !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e82297572"] .tcb-button-link span {
-                font-weight: var(--tve-font-weight, var(--g-regular-weight, normal));
-            }
-
-            :not(#tve) [data-css="tve-u-17e82297572"]:hover .tcb-button-link {
-                background-image: linear-gradient(rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.08)) !important;
-                background-size: auto !important;
-                background-position: 50% 50% !important;
-                background-attachment: scroll !important;
-                background-repeat: no-repeat !important;
-                background-color: var(--tcb-local-color-45721) !important;
-            }
-
-            [data-css="tve-u-17e82297576"] {
-                --tcb-local-color-icon: rgb(255, 255, 255);
-                --tcb-local-color-var: rgb(255, 255, 255);
-                --tve-icon-size: 38px;
-                font-size: 38px;
-                width: 38px;
-                height: 38px;
-            }
-
-            :not(#tve) [data-css="tve-u-17e82297579"] {
+            :not(#tve) [data-css="tve-u-180247b3f8a"] {
                 --g-regular-weight: 400;
-                --g-bold-weight: 800;
-                letter-spacing: 1px;
-                font-size: 30px !important;
+                --g-bold-weight: 600;
                 font-family: Nunito !important;
                 font-weight: var(--g-regular-weight, normal) !important;
+                font-size: 10px !important;
             }
 
-            [data-css="tve-u-17e82297579"] strong {
-                font-weight: 800 !important;
+            :not(#tve) [data-css="tve-u-180247b3f8c"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 600;
+                font-family: Nunito !important;
+                font-weight: var(--g-regular-weight, normal) !important;
+                font-size: 10px !important;
             }
 
-            [data-css="tve-u-17e822a5fbf"] {
-                background-color: rgb(0, 75, 168) !important;
-                --tve-applied-background-color: rgb(0, 75, 168) !important;
+            :not(#tve) [data-css="tve-u-180247b3f8d"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 600;
+                font-family: Nunito !important;
+                font-weight: var(--g-regular-weight, normal) !important;
+                font-size: 10px !important;
             }
 
-            [data-css="tve-u-17e822a8e34"] {
-                max-width: 850px;
+            :not(#tve) [data-css="tve-u-180247b3f8f"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 600;
+                font-family: Nunito !important;
+                font-weight: var(--g-regular-weight, normal) !important;
+                font-size: 10px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f91"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 600;
+                font-family: Nunito !important;
+                font-weight: var(--g-regular-weight, normal) !important;
+                font-size: 10px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f89"] strong {
+                font-weight: 600 !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f8a"] strong {
+                font-weight: 600 !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f8c"] strong {
+                font-weight: 600 !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f8d"] strong {
+                font-weight: 600 !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f8f"] strong {
+                font-weight: 600 !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f91"] strong {
+                font-weight: 600 !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247c01b3"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 600;
+                font-family: Nunito !important;
+                font-weight: var(--g-regular-weight, normal) !important;
+                font-size: 10px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247c01b3"] strong {
+                font-weight: 600 !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247c01b6"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 600;
+                font-family: Nunito !important;
+                font-weight: var(--g-regular-weight, normal) !important;
+                font-size: 10px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247c01b6"] strong {
+                font-weight: 600 !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247c01bb"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 600;
+                font-family: Nunito !important;
+                font-weight: var(--g-regular-weight, normal) !important;
+                font-size: 10px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247c01bb"] strong {
+                font-weight: 600 !important;
+            }
+
+            [data-css="tve-u-180247c01c9"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            [data-css="tve-u-180247c01cb"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            [data-css="tve-u-180247c01d2"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            [data-css="tve-u-180247eee9b"] {
+                width: 251px;
                 --tve-alignment: center;
                 float: none;
                 margin-left: auto !important;
                 margin-right: auto !important;
-                margin-top: 0px !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e822aeddc"] {
-                color: rgb(255, 255, 255) !important;
-                --tcb-applied-color: rgb(255, 255, 255) !important;
-                --tve-applied-color: rgb(255, 255, 255) !important;
-                font-size: 12px !important;
-            }
-
-            [data-css="tve-u-17e822aedef"] {
-                --tcb-applied-color: rgb(255, 255, 255) !important;
-            }
-
-            [data-css="tve-u-17e822aedf0"] {
-                --tcb-applied-color: rgb(255, 255, 255) !important;
-            }
-
-            [data-css="tve-u-17e822aedf4"] {
-                --tcb-applied-color: rgb(255, 255, 255) !important;
-            }
-
-            [data-css="tve-u-17e822aedf6"] {
-                --tcb-applied-color: rgb(255, 255, 255) !important;
-            }
-
-            [data-css="tve-u-17e822bb538"] {
-                font-size: 9px !important;
-            }
-
-            [data-css="tve-u-17e822bc9af"] {
-                margin-top: 20px !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e822c24a8"] {
-                color: rgb(255, 255, 255) !important;
-                --tcb-applied-color: rgb(255, 255, 255) !important;
-                --tve-applied-color: rgb(255, 255, 255) !important;
-                font-size: 12px !important;
-            }
-
-            [data-css="tve-u-17e822c24c1"] {
-                --tcb-applied-color: rgb(255, 255, 255) !important;
-            }
-
-            [data-css="tve-u-17e822c24c6"] {
-                --tcb-applied-color: rgb(255, 255, 255) !important;
-            }
-
-            [data-css="tve-u-17e822c24c9"] {
-                --tcb-applied-color: rgb(255, 255, 255) !important;
-            }
-
-            [data-css="tve-u-17e822cb115"] {
-                min-height: 45px !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e87642d27"] {
-                --g-regular-weight: 400;
-                font-family: Benne !important;
-                font-weight: var(--g-regular-weight, normal) !important;
-                font-size: 22px !important;
-                color: rgb(0, 1, 4) !important;
-                --tcb-applied-color: rgb(0, 1, 4) !important;
-                --tve-applied-color: rgb(0, 1, 4) !important;
-                line-height: 1.25em !important;
-            }
-
-            [data-css="tve-u-17e87642d34"] {
-                color: rgb(225, 0, 0) !important;
-            }
-
-            [data-css="tve-u-17e87642d34"] strong {
-                font-weight: 800 !important;
-            }
-
-            [data-css="tve-u-17e87697136"] .tcb-button-link {
-                letter-spacing: var(--tve-letter-spacing, 2px);
-                border-radius: 5px;
-                overflow: hidden;
-                box-shadow: rgba(0, 0, 0, 0.25) 1px 8px 12px 0px;
-                --tve-applied-box-shadow: 1px 8px 12px 0px rgba(0, 0, 0, 0.25);
-                background-color: var(--tcb-local-color-45721) !important;
-                padding: 22px !important;
-                background-image: none !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e87697136"] .tcb-button-link {
-                font-size: var(--tve-font-size, 16px) !important;
-            }
-
-            [data-css="tve-u-17e87697136"] {
-                --tve-font-size: 16px;
-                --tve-font-weight: var(--g-regular-weight, normal);
-                --tve-letter-spacing: 2px;
-                --tcb-local-color-b9181: rgb(19, 114, 211);
-                --tve-alignment: center;
-                float: none;
-                display: block;
-                max-width: 100%;
-                width: 100%;
-                --tve-border-radius: 5px;
-                --tcb-local-color-45721: rgb(0, 188, 0) !important;
-                margin: 40px auto !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e87697136"] .tcb-button-link span {
-                font-weight: var(--tve-font-weight, var(--g-regular-weight, normal));
-            }
-
-            :not(#tve) [data-css="tve-u-17e87697136"]:hover .tcb-button-link {
-                background-image: linear-gradient(rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.08)) !important;
-                background-size: auto !important;
-                background-position: 50% 50% !important;
-                background-attachment: scroll !important;
-                background-repeat: no-repeat !important;
-                background-color: var(--tcb-local-color-45721) !important;
-            }
-
-            [data-css="tve-u-17e8769713a"] {
-                --tcb-local-color-icon: rgb(255, 255, 255);
-                --tcb-local-color-var: rgb(255, 255, 255);
-                --tve-icon-size: 38px;
-                font-size: 38px;
-                width: 38px;
-                height: 38px;
-            }
-
-            :not(#tve) [data-css="tve-u-17e8769713c"] {
-                --g-regular-weight: 400;
-                --g-bold-weight: 800;
-                letter-spacing: 1px;
-                font-size: 30px !important;
-                font-family: Nunito !important;
-                font-weight: var(--g-regular-weight, normal) !important;
-            }
-
-            [data-css="tve-u-17e8769713c"] strong {
-                font-weight: 800 !important;
-            }
-
-            [data-css="tve-u-17e876acde2"] {
-                width: 24%;
-                --tve-border-width: 3px;
-                border: 3px solid rgb(0, 75, 168);
-                --tve-applied-border: 3px solid rgb(0, 75, 168);
-                --tve-border-radius: 100px;
-                border-radius: 100px;
-                overflow: hidden;
-                --tve-alignment: center;
-                float: none;
-                margin: 50px auto 20px !important;
-            }
-
-            [data-css="tve-u-17e876afc02"] {
+            [data-css="tve-u-180247f06b2"] {
                 margin-top: 0px;
-                margin-left: 0px;
-            }
-
-            [data-css="tve-u-17e876f56e6"] {
-                width: 47%;
-                --tve-alignment: center;
-                float: none;
-                --tve-border-width: 3px;
-                border: 3px solid rgb(0, 75, 168);
-                --tve-applied-border: 3px solid rgb(0, 75, 168);
-                --tve-border-radius: 7px;
-                border-radius: 7px;
-                overflow: hidden;
-                margin-left: auto !important;
-                margin-right: auto !important;
-                margin-top: 40px !important;
             }
         }
 
         @media (max-width: 767px) {
-            [data-css="tve-u-17e820a4536"] .tcb-button-link {
-                padding: 20px !important;
+            [data-css="tve-u-180243f9a13"] {
+                margin-top: 30px !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e81fd8b75"] {
-                font-size: 26px !important;
+            [data-css="tve-u-180244d6378"] {
+                padding-left: 10px !important;
+                padding-right: 10px !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e8200a32b"] {
-                font-size: 29px !important;
+            :not(#tve) [data-css="tve-u-1802452a309"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 700;
+                font-size: 24px !important;
+                color: rgb(255, 255, 255) !important;
+                --tcb-applied-color: rgb(255, 255, 255) !important;
+                --tve-applied-color: rgb(255, 255, 255) !important;
+                font-family: Roboto !important;
             }
 
-            [data-css="tve-u-17e821759c9"] {
-                text-decoration: underline !important;
+            [data-css="tve-u-1802452a309"] {
+                line-height: 1.2em !important;
             }
 
-            [data-css="tve-u-17e82023b7d"] {
-                font-family: Nunito !important;
+            [data-css="tve-u-1802452a309"] strong {
                 font-weight: 700 !important;
-                color: rgb(225, 0, 0) !important;
-                text-decoration: underline !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e8203eabf"] {
+            :not(#tve) [data-css="tve-u-180245c64b1"] {
                 --g-regular-weight: 400;
-                font-size: 18px !important;
-                font-family: Benne !important;
-                font-weight: var(--g-regular-weight, normal) !important;
-            }
-
-            [data-css="tve-u-17e8205b3a9"] {
-                text-decoration: underline !important;
-                color: rgb(3, 194, 32) !important;
-            }
-
-            [data-css="tve-u-17e8217acee"] {
-                text-decoration: underline !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e820dae85"] {
-                --g-regular-weight: 400;
+                --g-bold-weight: 700;
                 font-size: 24px !important;
-                font-weight: var(--g-regular-weight, normal) !important;
+                color: rgb(255, 255, 255) !important;
+                --tcb-applied-color: rgb(255, 255, 255) !important;
+                --tve-applied-color: rgb(255, 255, 255) !important;
+                font-family: Roboto !important;
             }
 
-            [data-css="tve-u-17e820dae85"] {
-                line-height: 1.12em !important;
+            [data-css="tve-u-180245c64b1"] {
+                line-height: 1.2em !important;
             }
 
-            [data-css="tve-u-17e82206290"] .tcb-button-link {
-                padding: 20px !important;
+            [data-css="tve-u-180245c64b1"] strong {
+                font-weight: 700 !important;
             }
 
-            :not(#tve) [data-css="tve-u-17e8220629a"] {
+            [data-css="tve-u-1802448aeca"] {
+                margin-bottom: 20px !important;
+                padding-top: 0px !important;
+            }
+
+            [data-css="tve-u-18024603143"] {
+                margin-bottom: 20px !important;
+                padding-top: 0px !important;
+            }
+
+            [data-css="tve-u-180246033dd"] {
+                margin-bottom: 20px !important;
+                padding-top: 0px !important;
+            }
+
+            [data-css="tve-u-1802449eb67"] {
+                line-height: 1.8em !important;
+            }
+
+            [data-css="tve-u-180244a8073"] {
+                margin-bottom: 20px !important;
+            }
+
+            [data-css="tve-u-1802467e879"] {
+                width: 161px;
+            }
+
+            [data-css="tve-u-1802468028f"] {
+                margin-top: 0px;
+            }
+
+            :not(#tve) [data-css="tve-u-1802469d80d"] {
                 --g-regular-weight: 400;
+                --g-bold-weight: 700;
                 font-size: 24px !important;
-                font-weight: var(--g-regular-weight, normal) !important;
+                color: rgb(255, 255, 255) !important;
+                --tcb-applied-color: rgb(255, 255, 255) !important;
+                --tve-applied-color: rgb(255, 255, 255) !important;
+                font-family: Roboto !important;
             }
 
-            [data-css="tve-u-17e8220629a"] {
-                line-height: 1.12em !important;
+            [data-css="tve-u-1802469d80d"] {
+                line-height: 1.2em !important;
             }
 
-            [data-css="tve-u-17e821c70a2"] {
+            [data-css="tve-u-1802469d80d"] strong {
+                font-weight: 700 !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180246e8ec0"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 700;
+                font-size: 24px !important;
+                color: rgb(255, 255, 255) !important;
+                --tcb-applied-color: rgb(255, 255, 255) !important;
+                --tve-applied-color: rgb(255, 255, 255) !important;
+                font-family: Roboto !important;
+            }
+
+            [data-css="tve-u-180246e8ec0"] {
+                line-height: 1.2em !important;
+            }
+
+            [data-css="tve-u-180246e8ec0"] strong {
+                font-weight: 700 !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180246f49c0"] {
+                font-size: 14px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-18024733920"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 700;
+                font-size: 24px !important;
+                color: rgb(255, 255, 255) !important;
+                --tcb-applied-color: rgb(255, 255, 255) !important;
+                --tve-applied-color: rgb(255, 255, 255) !important;
+                font-family: Roboto !important;
+            }
+
+            [data-css="tve-u-18024733920"] {
+                line-height: 1.2em !important;
+            }
+
+            [data-css="tve-u-18024733920"] strong {
+                font-weight: 700 !important;
+            }
+
+            :not(#tve) [data-css="tve-u-18024794b33"] {
+                --g-regular-weight: 400;
+                --g-bold-weight: 700;
+                font-size: 24px !important;
+                color: rgb(255, 255, 255) !important;
+                --tcb-applied-color: rgb(255, 255, 255) !important;
+                --tve-applied-color: rgb(255, 255, 255) !important;
+                font-family: Roboto !important;
+            }
+
+            [data-css="tve-u-18024794b33"] {
+                line-height: 1.2em !important;
+            }
+
+            [data-css="tve-u-18024794b33"] strong {
+                font-weight: 700 !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247c01b3"] {
+                font-size: 9px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247c01b6"] {
+                font-size: 9px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f89"] {
+                font-size: 9px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f8a"] {
+                font-size: 9px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f8c"] {
+                font-size: 9px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247c01bb"] {
+                font-size: 9px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f8d"] {
+                font-size: 9px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f8f"] {
+                font-size: 9px !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247b3f91"] {
+                font-size: 9px !important;
+            }
+
+            [data-css="tve-u-180247c01c9"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            [data-css="tve-u-180247c01cb"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            [data-css="tve-u-180247b109e"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            [data-css="tve-u-180247b10a0"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            [data-css="tve-u-180247b10a1"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            [data-css="tve-u-180247c01d2"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            [data-css="tve-u-180247b10a3"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            [data-css="tve-u-180247b10a4"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            [data-css="tve-u-180247b10a5"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            [data-css="tve-u-180247b10a7"] {
+                color: rgb(255, 255, 255) !important;
+            }
+
+            :not(#tve) [data-css="tve-u-180247d04df"] {
                 line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e8225a46c"] {
-                font-family: Nunito !important;
-                font-weight: 700 !important;
-                color: rgb(0, 0, 0) !important;
-                text-decoration: underline !important;
+            :not(#tve) [data-css="tve-u-180247d04e1"] {
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e8223d27a"] {
-                color: rgb(222, 1, 1) !important;
+            :not(#tve) [data-css="tve-u-180247d04e2"] {
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e822403cc"] {
-                color: rgb(222, 1, 1) !important;
+            :not(#tve) [data-css="tve-u-1802465ac1b"] {
+                line-height: 1.5em !important;
             }
 
-            [data-css="tve-u-17e82244231"] {
-                color: rgb(222, 1, 1) !important;
-            }
-
-            [data-css="tve-u-17e82267d28"] {
-                text-decoration: underline !important;
-                color: rgb(214, 23, 23) !important;
-            }
-
-            [data-css="tve-u-17e8226b23c"] {
-                color: rgb(0, 203, 18) !important;
-            }
-
-            [data-css="tve-u-17e82286010"] {
-                text-decoration: underline !important;
-            }
-
-            [data-css="tve-u-17e82286011"] {
-                text-decoration: underline !important;
-            }
-
-            [data-css="tve-u-17e82297572"] .tcb-button-link {
-                padding: 20px !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e82297579"] {
-                --g-regular-weight: 400;
-                font-size: 24px !important;
-                font-weight: var(--g-regular-weight, normal) !important;
-            }
-
-            [data-css="tve-u-17e82297579"] {
-                line-height: 1.12em !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e822c24a8"] {
-                font-size: 8px !important;
-            }
-
-            :not(#tve) [data-css="tve-u-17e822aeddc"] {
-                font-size: 10px !important;
-            }
-
-            [data-css="tve-u-17e82087fe8"] {
-                width: 509px;
-            }
-
-            [data-css="tve-u-17e8208df3d"] {
-                margin-top: 0px;
-                margin-left: 0px;
-            }
-
-            :not(#tve) [data-css="tve-u-17e87642d27"] {
+            :not(#tve) [data-css="tve-u-18024441be7"] {
                 font-size: 18px !important;
             }
 
-            [data-css="tve-u-17e87697136"] .tcb-button-link {
-                padding: 20px !important;
+            [data-css="tve-u-180247eee9b"] {
+                width: 136px;
             }
 
-            :not(#tve) [data-css="tve-u-17e8769713c"] {
-                --g-regular-weight: 400;
-                font-size: 24px !important;
-                font-weight: var(--g-regular-weight, normal) !important;
-            }
-
-            [data-css="tve-u-17e8769713c"] {
-                line-height: 1.12em !important;
-            }
-
-            [data-css="tve-u-17e876acde2"] {
-                width: 188px;
-            }
-
-            [data-css="tve-u-17e876afc02"] {
+            [data-css="tve-u-180247f06b2"] {
                 margin-top: 0px;
-                margin-left: 0px;
-            }
-
-            [data-css="tve-u-17e876f56e6"] {
-                width: 509px;
             }
         }
     </style>
@@ -1162,754 +1451,504 @@
 
 </head>
 
-<body class="page-template-default page page-id-15 wp-embed-responsive tve_lp" style="" data-css="tve-u-15e09c94f7d">
+<body class="page-template-default page page-id-60 wp-embed-responsive tve_lp" style="" data-css="tve-u-15e09c94f7d">
     <div class="wrp cnt bSe" style="display: none">
         <div class="awr"></div>
     </div>
     <div class="tve_wrap_all" id="tcb_landing_page">
         <div class="tve_post_lp tve_lp_tcb2-clickjournalist-sales-page tve_lp_template_wrapper" style="">
             <div id="tve_flt" class="tve_flt tcb-style-wrap">
-                <div id="tve_editor" class="tve_shortcode_editor tar-main-content" data-post-id="15">
-                    <div class="thrive-group-edit-config" style="display: none !important"></div>
+                <div id="tve_editor" class="tve_shortcode_editor tar-main-content" data-post-id="60">
+                    <div class="thrive-group-edit-config" style="display: none;"></div>
                     <div class="thrv_wrapper thrv-page-section tve-height-update" data-inherit-lp-settings="1">
-                        <div class="tve-page-section-out"></div>
-                        <div class="tve-page-section-in tve_empty_dropzone">
+                        <div class="tve-page-section-out" style="" data-css="tve-u-18024306b26"></div>
+                        <div class="tve-page-section-in">
                             <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
-                                style="" data-css="tve-u-17e81fb008c">
-                                <div class="tve-content-box-background" data-css="tve-u-17e81fb4a4c" style=""></div>
-                                <div class="tve-cb">
-                                    <div class="thrv_wrapper thrv_text_element">
-                                        <h2 data-css="tve-u-17e81fd8b75" style="text-align: center;" class="">
-                                            <strong>FREE VIDEO
-                                                REVEALS!</strong>
-                                        </h2>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
-                                style="" data-css="tve-u-17e820001c9">
+                                style="" data-css="tve-u-180242e18a5">
                                 <div class="tve-content-box-background"></div>
                                 <div class="tve-cb">
-                                    <div class="thrv_wrapper thrv_text_element">
-                                        <p data-css="tve-u-17e8200a32b" style="text-align: center;"><strong> The Real
-                                                Truth About
-                                                Making Money Online<span data-css="tve-u-17e82023b7d"> Nobody Will Tell
-                                                    You</span></strong></p>
+                                    <div class="thrv_wrapper thrv_text_element" data-css="tve-u-18024366ca2"
+                                        style="--tve-border-width:0px; border: none !important;">
+                                        <p data-css="tve-u-1802434f41e" style="text-align: center;"><strong>Finally
+                                                Exposed!</strong></p>
                                     </div>
-                                    <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82054e0d">
-                                        <p data-css="tve-u-17e87642d27" style="text-align: center;"><em>Even if you have
-                                                no experience, no laptops, or any product to sell.</em><strong><span
-                                                    data-css="tve-u-17e87642d34"> </span></strong></p>
+                                    <div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-1802433ed80">
+                                        <p data-css="tve-u-1802430cedc" style="text-align: center;"><strong>THE REAL
+                                                TRUTH ABOUT MAKING MONEY ONLINE NOBODY WILL TELL YOU</strong></p>
                                     </div>
-
-
-                                    <div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-17e82054e0d">
-                                        <p data-css="tve-u-17e8203eabf" style="text-align: center;"><strong>In this free
-                                                video I will be showing you how to start this simple <span
-                                                    data-css="tve-u-17e8205b3a9">EVER-GREEN BUSINESS MODEL</span>, with
-                                                little capital and how <span data-css="tve-u-17e8217acee">you can start
-                                                    making money weekly from it.</span><span
-                                                    data-css="tve-u-17e8203ead9"> </span></strong></p>
-                                    </div>
-                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
-                                        <span class="tve_image_frame"><img class="tve_image wp-image-10" alt=""
-                                                data-id="51" width="375" data-init-width="1080" height="375"
-                                                data-init-height="1080" title="Facebook Ads flyer" loading="lazy"
-                                                src="https://idyllic-klepon-d7c501.netlify.app/image13.gif" data-width="375" data-height="375" ml-d="0" mt-d="0"
-                                                style="" data-css="tve-u-17e8208df3d"></span>
-                                    </div>
-
-                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e821245d3" style="">
-                                        <span class="tve_image_frame"><img class="tve_image wp-image-102" alt=""
-                                                data-id="102" width="183" data-init-width="480" height="165"
-                                                data-init-height="432" title="75efc5c504cebcaeab51766b5eff9bcf"
-                                                loading="lazy"
-                                                src="https://www.calebismarketing.com/wp-content/uploads/2022/02/75efc5c504cebcaeab51766b5eff9bcf.gif"
-                                                data-width="183" data-height="165" mt-d="0" style=""
-                                                data-css="tve-u-17e821255c5"></span>
+                                    <div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-180243eb50b">
+                                        <p style="text-align: center;" data-css="tve-u-180243e4408">
+                                            <strong><em>Especially through Affiliate Marketing...</em></strong>
+                                        </p>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
-                    <div class="thrv_wrapper thrv-page-section tve-height-update" data-inherit-lp-settings="1">
-                        <div class="tve-page-section-out"></div>
+                    <div class="thrv_wrapper thrv-page-section tve-height-update" data-inherit-lp-settings="1"
+                        data-css="tve-u-180244d6378" style="">
+                        <div class="tve-page-section-out" style="" data-css="tve-u-1802440d5e3"></div>
                         <div class="tve-page-section-in">
                             <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
-                                style="" data-css="tve-u-17e820a8f8e">
-                                <div class="tve-content-box-background"></div>
+                                style="" data-css="tve-u-180243f9a13">
+                                <div class="tve-content-box-background" style="" data-css="tve-u-18024400b52"></div>
                                 <div class="tve-cb">
-                                    <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tcb-with-icon tcb-flip tve_ea_thrive_animation tve_anim_forward"
-                                        data-button-style="btn-tpl-58405" data-css="tve-u-17e82206290" style="">
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244c8b31" dir="ltr" style=""><span
+                                                data-css="tve-u-18024433be3">Dear Reader,</span></p>
+                                        <p data-css="tve-u-180244c8b33" dir="ltr" style=""><span
+                                                data-css="tve-u-18024434ed2"><span
+                                                    data-css="tve-u-18024433be5"><br></span></span></p>
+                                        <p data-css="tve-u-180244c8b34" dir="ltr" style=""><span
+                                                data-css="tve-u-18024434ed5"><span data-css="tve-u-18024433be7">I am
+                                                    about to expose a seceret nobody in my industry will ever tell you
+                                                    until it is too late...</span></span></p>
+                                        <p data-css="tve-u-180244c8b34" dir="ltr" style=""><br></p>
+                                        <p data-css="tve-u-180244c8b34" dir="ltr" style=""><span
+                                                data-css="tve-u-18024434ed5"><span data-css="tve-u-18024433be7">So do
+                                                    yourself a favour listen very carefully...</span></span></p>
+                                        <p data-css="tve-u-180244c8b36" dir="ltr" style=""><span
+                                                data-css="tve-u-18024434ed7"><span
+                                                    data-css="tve-u-18024433be8"><br></span></span></p>
+                                        <p data-css="tve-u-180244c8b37" dir="ltr" style=""><span
+                                                data-css="tve-u-18024434ed9"><span data-css="tve-u-18024433be9">Here’s
+                                                    the real truth no one will tell you about making money
+                                                    online,</span></span></p>
+                                        <p data-css="tve-u-180244c8b38" dir="ltr" style=""><br></p>
+                                        <p data-css="tve-u-18024441be7" style="text-align: center;"><em><strong>Making
+                                                    Money Online is not Easy</strong></em></p>
+                                        <p data-css="tve-u-18024446650" style=""><br></p>
+                                        <p data-css="tve-u-180244c8b3c" dir="ltr" style="">Contrary to what most
+                                            Marketers who just want your money will tell you, it is not easy it requires
+                                            a good amount of work and effort,</p>
+                                        <p data-css="tve-u-180244c8b3d" dir="ltr" style=""><br></p>
+                                        <p data-css="tve-u-180244c8b3e" dir="ltr" style="">I mean if it was so easy why
+                                            is everybody not doing it? Think about it…</p>
+                                        <p data-css="tve-u-180244c8b40" dir="ltr" style=""><br></p>
+                                        <p data-css="tve-u-180244c8b41" dir="ltr" style="">Maybe you have even tried
+                                            already and it didn’t work…</p>
+                                        <p data-css="tve-u-180244c8b42" dir="ltr" style=""><br></p>
+                                        <p data-css="tve-u-180244c8b43" dir="ltr" style="">But although making Money
+                                            Online is not easy <strong>it is also not impossible.</strong></p>
+                                        <p data-css="tve-u-180244c8b44" dir="ltr" style=""><br></p>
+                                    </div>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p dir="ltr">To actually make money online, you essentially need <strong>3
+                                                things</strong>:</p>
+                                    </div>
+                                    <div class="thrv_wrapper thrv-styled_list" data-icon-code="icon-check">
+                                        <ul class="tcb-styled-list">
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180245fcccd">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root"
+                                                        data-css="tve-u-180245fcccf" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 32 32" data-id="icon-check" data-name="">
+                                                            <path
+                                                                d="M29.333 10.267c0 0.4-0.133 0.8-0.533 1.2l-14.8 14.8c-0.267 0.267-0.667 0.4-1.067 0.4s-0.933-0.133-1.2-0.533l-2.4-2.267-6.267-6.267c-0.267-0.267-0.4-0.667-0.4-1.2s0.133-0.8 0.533-1.2l2.4-2.4c0.267-0.133 0.667-0.4 1.067-0.4s0.8 0.133 1.2 0.533l5.067 5.067 11.2-11.333c0.267-0.267 0.667-0.533 1.2-0.533 0.4 0 0.8 0.133 1.2 0.533l2.4 2.4c0.267 0.267 0.4 0.667 0.4 1.2z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-180245fccd1">Little Capital to start</span>
+                                            </li>
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180245fccd2">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style"
+                                                        data-css="tve-u-180245fccd4" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 32 32" data-id="icon-check" data-name="">
+                                                            <path
+                                                                d="M29.333 10.267c0 0.4-0.133 0.8-0.533 1.2l-14.8 14.8c-0.267 0.267-0.667 0.4-1.067 0.4s-0.933-0.133-1.2-0.533l-2.4-2.267-6.267-6.267c-0.267-0.267-0.4-0.667-0.4-1.2s0.133-0.8 0.533-1.2l2.4-2.4c0.267-0.133 0.667-0.4 1.067-0.4s0.8 0.133 1.2 0.533l5.067 5.067 11.2-11.333c0.267-0.267 0.667-0.533 1.2-0.533 0.4 0 0.8 0.133 1.2 0.533l2.4 2.4c0.267 0.267 0.4 0.667 0.4 1.2z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-180245fccd5">A good Business Model and</span>
+                                            </li>
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180245fccd7">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style"
+                                                        data-css="tve-u-180245fccd8" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 32 32" data-id="icon-check" data-name="">
+                                                            <path
+                                                                d="M29.333 10.267c0 0.4-0.133 0.8-0.533 1.2l-14.8 14.8c-0.267 0.267-0.667 0.4-1.067 0.4s-0.933-0.133-1.2-0.533l-2.4-2.267-6.267-6.267c-0.267-0.267-0.4-0.667-0.4-1.2s0.133-0.8 0.533-1.2l2.4-2.4c0.267-0.133 0.667-0.4 1.067-0.4s0.8 0.133 1.2 0.533l5.067 5.067 11.2-11.333c0.267-0.267 0.667-0.533 1.2-0.533 0.4 0 0.8 0.133 1.2 0.533l2.4 2.4c0.267 0.267 0.4 0.667 0.4 1.2z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-180245fccda">A Proven-to-work strategy</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">If you have the first one I
+                                            can help you with the other two in this special <strong>FREE VIDEO
+                                            </strong>I have created for anyone that wants to make money online or is
+                                            finding it hard to start…</p>
+                                    </div>
+                                    <div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-180246f8b65">
+                                        <p data-css="tve-u-180246f49c0" dir="ltr" style="text-align: center;">
+                                            Unfortunately, this <strong>FREE VIDEO</strong> is only available for the
+                                            first <strong>100 people, Get it while you can!</strong></p>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-180247eee9b" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-149" alt=""
+                                                data-id="149" width="251" data-init-width="319" height="132"
+                                                data-init-height="168"
+                                                title="Arrows-3-pointing-down-arrow-down-animated" loading="lazy"
+                                                src="https://www.phenomenalcassandra.com/wp-content/uploads/2022/04/Arrows-3-pointing-down-arrow-down-animated.gif"
+                                                data-width="251" data-height="132" mt-d="0" style=""
+                                                data-css="tve-u-180247f06b2" mt-m="0"></span>
+                                    </div>
+                                    <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root"
+                                        data-button-style="btn-tpl-58398" data-css="tve-u-180246e8ebd" style="">
                                         <div class="thrive-colors-palette-config" style="display: none !important">
                                         </div>
 
-                                        <a href="https://wa.link/15s7ua "
-                                            class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover"
-                                            data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;forward&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__"
-                                            style=""><span class="tcb-button-icon">
-                                                <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                    data-css="tve-u-17e82206296" style=""><svg class="tcb-icon"
-                                                        viewBox="0 0 512 512" data-id="icon-arrow-circle-up-solid"
-                                                        data-name="">
-                                                        <path
-                                                            d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm143.6 28.9l72.4-75.5V392c0 13.3 10.7 24 24 24h16c13.3 0 24-10.7 24-24V209.4l72.4 75.5c9.3 9.7 24.8 9.9 34.3.4l10.9-11c9.4-9.4 9.4-24.6 0-33.9L273 107.7c-9.4-9.4-24.6-9.4-33.9 0L106.3 240.4c-9.4 9.4-9.4 24.6 0 33.9l10.9 11c9.6 9.5 25.1 9.3 34.4-.4z">
-                                                        </path>
-                                                    </svg></div>
-                                            </span>
-
+                                        <a href="https://wa.link/15s7ua" class="tcb-button-link tcb-plain-text">
                                             <span class="tcb-button-texts"><span
                                                     class="tcb-button-text thrv-inline-text" style=""
-                                                    data-css="tve-u-17e8220629a"><strong>CLICK HERE TO GET ACCESS TO
-                                                        FREE VIDEO</strong></span></span>
+                                                    data-css="tve-u-180246e8ec0">GET THE FREE VIDEO NOW</span></span>
                                         </a>
                                     </div>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-18024543a3b" dir="ltr" style="">My name is <strong>Ogbe Excel
+                                                John,</strong>
+                                        </p>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-1802467e879" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-28" alt=""
+                                                data-id="28" width="224" data-init-width="982" height="292"
+                                                data-init-height="1280" title="photo_2022-01-28_09-31-18" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image11.jpeg"
+                                                data-width="224" data-height="292" mt-d="0" style=""
+                                                data-css="tve-u-1802468028f" mt-m="0"
+                                                srcset="https://idyllic-klepon-d7c501.netlify.app/image11.jpeg"
+                                                sizes="(max-width: 224px) 100vw, 224px" /></span>
+                                    </div>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-18024543a3d" dir="ltr" style=""><br></p>
+                                        <p data-css="tve-u-18024543a3e" dir="ltr" style="">I have been able to make
+                                            <strong>Multiple 7 figures</strong> for myself through a <strong>Simple
+                                                Ever-Green Business Model</strong> called <strong>Affiliate
+                                                Marketing…</strong>
+                                        </p>
+                                        <p data-css="tve-u-18024543a40" dir="ltr" style=""><br></p>
+                                        <p data-css="tve-u-18024543a41" dir="ltr" style="">This is how much I have made
+                                            in the last <strong>6 months</strong> from this Business model I am about
+                                            to show you…</p>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-18024555508" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-92" alt=""
+                                                data-id="92" width="621" data-init-width="1080" height="562"
+                                                data-init-height="976" title="IMG_20220413_153832" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image9.jpeg"
+                                                data-width="621" data-height="562" mt-d="0" style=""
+                                                data-css="tve-u-18024556a31"
+                                                srcset="https://idyllic-klepon-d7c501.netlify.app/image9.jpeg"
+                                                sizes="(max-width: 621px) 100vw, 621px" /></span>
+                                    </div>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-18024543a3b">Not only have I earned this much for myself from
+                                            this business model, but I have also been able <strong>to show my students
+                                                replicate these results for themselves</strong> and this is what they
+                                            are now saying…</p>
+                                        <p data-css="tve-u-18024543a3b"><br></p>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-18024555508" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-99" alt=""
+                                                data-id="99" width="621" data-init-width="1080" height="724"
+                                                data-init-height="1259" title="photo_2022-01-28_09-34-18" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image6.jpeg"
+                                                data-width="621" data-height="724" mt-d="0" style=""
+                                                data-css="tve-u-18024556a31"
+                                                srcset="https://idyllic-klepon-d7c501.netlify.app/image6.jpeg"
+                                                sizes="(max-width: 621px) 100vw, 621px" /></span>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-18024555508" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-100" alt=""
+                                                data-id="100" width="621" data-init-width="1080" height="613"
+                                                data-init-height="1066" title="photo_2022-01-28_09-34-19" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image8.jpeg"
+                                                data-width="621" data-height="613" mt-d="0" style=""
+                                                data-css="tve-u-18024556a31"
+                                                srcset="https://idyllic-klepon-d7c501.netlify.app/image8.jpeg"
+                                                sizes="(max-width: 621px) 100vw, 621px" /></span>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-18024555508" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-101" alt=""
+                                                data-id="101" width="621" data-init-width="1080" height="600"
+                                                data-init-height="1044" title="photo_2022-01-28_09-34-20" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image3.jpeg"
+                                                data-width="621" data-height="600" mt-d="0" style=""
+                                                data-css="tve-u-180245a63f8"
+                                                srcset="https://idyllic-klepon-d7c501.netlify.app/image3.jpeg"
+                                                sizes="(max-width: 621px) 100vw, 621px" /></span>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-18024555508" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-102" alt=""
+                                                data-id="102" width="621" data-init-width="1080" height="604"
+                                                data-init-height="1050" title="photo_2022-01-28_09-34-21" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image4.jpeg"
+                                                data-width="621" data-height="604" mt-d="0" style=""
+                                                data-css="tve-u-18024556a31"
+                                                srcset="https://idyllic-klepon-d7c501.netlify.app/image4.jpeg"
+                                                sizes="(max-width: 621px) 100vw, 621px" /></span>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-180247eee9b" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-149" alt=""
+                                                data-id="149" width="251" data-init-width="319" height="132"
+                                                data-init-height="168"
+                                                title="Arrows-3-pointing-down-arrow-down-animated" loading="lazy"
+                                                src="https://www.phenomenalcassandra.com/wp-content/uploads/2022/04/Arrows-3-pointing-down-arrow-down-animated.gif"
+                                                data-width="251" data-height="132" mt-d="0" style=""
+                                                data-css="tve-u-180247f06b2" mt-m="0"></span>
+                                    </div>
+                                    <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root"
+                                        data-button-style="btn-tpl-58398" data-css="tve-u-1802451e69a" style="">
+                                        <div class="thrive-colors-palette-config" style="display: none !important">
+                                        </div>
+
+                                        <a href="https://wa.link/15s7ua" class="tcb-button-link tcb-plain-text">
+                                            <span class="tcb-button-texts"><span
+                                                    class="tcb-button-text thrv-inline-text" style=""
+                                                    data-css="tve-u-1802452a309">GET THE FREE VIDEO NOW</span></span>
+                                        </a>
+                                    </div>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p dir="ltr">Making Money Online is not easy but it is very possible…</p>
+                                        <p><br></p>
+                                        <p><br></p>
+                                        <p>That is why I have created a <strong>FREE VIDEO</strong> for you where I
+                                            explain these things in detail…</p>
+                                    </div>
+                                    <div class="thrv_wrapper thrv-styled_list" data-icon-code="icon-check">
+                                        <ul class="tcb-styled-list">
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
+                                                        data-css="tve-u-1802448aeca" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512" data-id="icon-check-circle-solid"
+                                                            data-name="" style="">
+                                                            <path
+                                                                d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-1802449eb67" style="">What is this Business
+                                                    Model?</span>
+                                            </li>
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-icon-display tcb-local-vars-root"
+                                                        data-css="tve-u-1802448aeca" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512" data-id="icon-check-circle-solid"
+                                                            data-name="" style="">
+                                                            <path
+                                                                d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-1802449eb67" style="">How it works</span>
+                                            </li>
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-icon-display tcb-local-vars-root"
+                                                        data-css="tve-u-1802448aeca" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512" data-id="icon-check-circle-solid"
+                                                            data-name="" style="">
+                                                            <path
+                                                                d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-1802449eb67" style="">The exact strategy I and my
+                                                    students to make multiple <strong>6 figures weekly</strong></span>
+                                            </li>
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-icon-display tcb-local-vars-root"
+                                                        data-css="tve-u-18024603143" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512" data-id="icon-check-circle-solid"
+                                                            data-name="" style="">
+                                                            <path
+                                                                d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-1802449eb67" style="">A <strong>case study</strong>
+                                                    of how I was able to make <strong>N750k</strong> in the first
+                                                    <strong>10 days of February </strong></span>
+                                            </li>
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-icon-display tcb-local-vars-root"
+                                                        data-css="tve-u-180246033dd" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512" data-id="icon-check-circle-solid"
+                                                            data-name="" style="">
+                                                            <path
+                                                                d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-1802449eb67" style="">How <strong>YOU</strong> can
+                                                    get started making money with this Business Model</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-180246f8b65">
+                                        <p data-css="tve-u-180246f49c0" dir="ltr" style="text-align: center;">
+                                            Unfortunately, this <strong>FREE VIDEO</strong> is only available for the
+                                            first <strong>100 people, Get it while you can!</strong></p>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-180247eee9b" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-149" alt=""
+                                                data-id="149" width="251" data-init-width="319" height="132"
+                                                data-init-height="168"
+                                                title="Arrows-3-pointing-down-arrow-down-animated" loading="lazy"
+                                                src="https://www.phenomenalcassandra.com/wp-content/uploads/2022/04/Arrows-3-pointing-down-arrow-down-animated.gif"
+                                                data-width="251" data-height="132" mt-d="0" style=""
+                                                data-css="tve-u-180247f06b2" mt-m="0"></span>
+                                    </div>
+                                    <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root"
+                                        data-button-style="btn-tpl-58398" data-css="tve-u-18024794b30" style="">
+                                        <div class="thrive-colors-palette-config" style="display: none !important">
+                                        </div>
+
+                                        <a href="https://wa.link/15s7ua" class="tcb-button-link tcb-plain-text">
+                                            <span class="tcb-button-texts"><span
+                                                    class="tcb-button-text thrv-inline-text" style=""
+                                                    data-css="tve-u-18024794b33">GET THE FREE VIDEO NOW</span></span>
+                                        </a>
+                                    </div>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180246cb187" style="text-align: center;"><strong>Here are
+                                                some of my own recent weekly payouts…</strong></p>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-18024555508" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-135" alt=""
+                                                data-id="135" width="621" data-init-width="1080" height="678"
+                                                data-init-height="1178" title="photo_2022-04-13_15-41-11" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image10.jpeg"
+                                                data-width="621" data-height="678" mt-d="0" style=""
+                                                data-css="tve-u-18024556a31"
+                                                srcset="https://idyllic-klepon-d7c501.netlify.app/image10.jpeg"
+                                                sizes="(max-width: 621px) 100vw, 621px" /></span>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-18024555508" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-141" alt=""
+                                                data-id="141" width="621" data-init-width="1023" height="777"
+                                                data-init-height="1280" title="photo_2022-04-13_15-41-42" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image12.jpeg"
+                                                data-width="621" data-height="777" mt-d="0" style=""
+                                                data-css="tve-u-18024556a31"
+                                                srcset="https://idyllic-klepon-d7c501.netlify.app/image12.jpeg"
+                                                sizes="(max-width: 621px) 100vw, 621px" /></span>
+                                    </div>
+
+                                    <div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-180246f8b65">
+                                        <p data-css="tve-u-180246f49c0" dir="ltr" style="text-align: center;">
+                                            Unfortunately, this <strong>FREE VIDEO</strong> is only available for the
+                                            first <strong>100 people, Get it while you can!</strong></p>
+                                    </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-180247eee9b" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-149" alt=""
+                                                data-id="149" width="251" data-init-width="319" height="132"
+                                                data-init-height="168"
+                                                title="Arrows-3-pointing-down-arrow-down-animated" loading="lazy"
+                                                src="https://www.phenomenalcassandra.com/wp-content/uploads/2022/04/Arrows-3-pointing-down-arrow-down-animated.gif"
+                                                data-width="251" data-height="132" mt-d="0" style=""
+                                                data-css="tve-u-180247f06b2" mt-m="0"></span>
+                                    </div>
+                                    <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root"
+                                        data-button-style="btn-tpl-58398" data-css="tve-u-1802469d80b" style="">
+                                        <div class="thrive-colors-palette-config" style="display: none !important">
+                                        </div>
+
+                                        <a href="https://wa.link/15s7ua" class="tcb-button-link tcb-plain-text">
+                                            <span class="tcb-button-texts"><span
+                                                    class="tcb-button-text thrv-inline-text" style=""
+                                                    data-css="tve-u-1802469d80d">GET THE FREE VIDEO NOW</span></span>
+                                        </a>
+                                    </div>
+
                                 </div>
                             </div>
                         </div>
                     </div>
-
-                    </span>
                     <div class="thrv_wrapper thrv-page-section tve-height-update" data-inherit-lp-settings="1">
-                        <div class="tve-page-section-out"></div>
-                        <div class="tve-page-section-in tve_empty_dropzone">
+                        <div class="tve-page-section-out" style="" data-css="tve-u-1802479fd40"></div>
+                        <div class="tve-page-section-in">
                             <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
-                                style="" data-css="tve-u-17e82154f11">
+                                style="" data-css="tve-u-180242e18a5">
                                 <div class="tve-content-box-background"></div>
                                 <div class="tve-cb">
                                     <div class="thrv_wrapper thrv_text_element">
-                                        <sr<p><span data-css="tve-u-17e8215ec5c"><strong>Dear friend</strong></span></p>
-                                            <p><span data-css="tve-u-17e8215ec5e"><br></span></p>
-                                            <p><span data-css="tve-u-17e8215ec60"><strong>I am about to expose a secret nobody
-                                                    in my
-                                                    industry will ever tell you until it is too late..</strong></span></p>
-                                            <p><br></p>
-                                            <p><span data-css="tve-u-17e8215ec61"><strong>So do yourself a favour listen very
-                                                    carefully...</strong></span></p>
-                                            <p><span data-css="tve-u-17e8215ec63"><br></span></p>
-                                            <p dir="ltr"><strong>Here’s the real truth no one will tell you about making money
-                                                online,</strong></p>
-                                            <p dir="ltr"><br></p>
-                                            <div class="thrv_wrapper thrv_text_element" style=""
-                                                data-css="tve-u-17e82054e0d">
-                                                <p data-css="tve-u-17e8203eabf" style="text-align: center;">
-                                                    <strong>Making Money Online Is Not Easy</strong></p>
-                                            </div>
-                                            <p dir="ltr"><br></p>
-                                            <p><span data-css="tve-u-17e8215ec68"><strong>Contrary to what most Marketers who
-                                                    just
-                                                    want your money will tell you, it is not easy it requires a good
-                                                    amount
-                                                    of work and effort, </strong></p>
-                                            <p dir="ltr"><br></p>
-                                            <p dir="ltr"><strong>I mean if it was so easy why is everybody not doing it? Think
-                                                about
-                                                it…</strong></p>
-                                            <p dir="ltr"><br></p>
-                                            <p dir="ltr"><strong>Maybe you have even tried already and it didn’t work…</strong></p>
-                                            <p dir="ltr"><br></p>
-                                            <p dir="ltr"><strong>But although making Money Online is not easy it is also not
-                                                impossible.</strong></p>
-                                            <p dir="ltr"><br></p>
-                                            <p dir="ltr"><strong>To actually make money online, you essentially need 3 things:</strong>
-                                            </p>
-                                            <p dir="ltr"><br></p>
-                                            <div class="thrv_wrapper thrv-styled_list" data-icon-code="icon-check"
-                                                style="" data-css="tve-u-17e821c66ae">
-                                                <ul class="tcb-styled-list">
-                                                    <li class="thrv-styled-list-item">
-                                                        <div class="tcb-styled-list-icon">
-                                                            <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                                data-css="tve-u-17e821c6ec9" style=""><svg
-                                                                    class="tcb-icon" viewBox="0 0 512 512"
-                                                                    data-id="icon-arrow-circle-right-solid" data-name=""
-                                                                    style="">
-                                                                    <path
-                                                                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                                    </path>
-                                                                </svg></div>
-                                                        </div><span
-                                                            class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                            data-css="tve-u-17e821c70a2" style="">
-                                                            <div><strong>Little Capital to start</strong></div>
-                                                        </span>
-                                                    </li>
-                                                    <li class="thrv-styled-list-item">
-                                                        <div class="tcb-styled-list-icon">
-                                                            <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                                data-css="tve-u-17e821c6ec9" style=""><svg
-                                                                    class="tcb-icon" viewBox="0 0 512 512"
-                                                                    data-id="icon-arrow-circle-right-solid" data-name=""
-                                                                    style="">
-                                                                    <path
-                                                                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                                    </path>
-                                                                </svg></div>
-                                                        </div><span
-                                                            class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                            data-css="tve-u-17e821c70a2" style=""><strong>A good
-                                                                Business Model and
-                                                            </strong></span>
-                                                    </li>
-                                                    <li class="thrv-styled-list-item">
-                                                        <div class="tcb-styled-list-icon">
-                                                            <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                                data-css="tve-u-17e821c6ec9" style=""><svg
-                                                                    class="tcb-icon" viewBox="0 0 512 512"
-                                                                    data-id="icon-arrow-circle-right-solid" data-name=""
-                                                                    style="">
-                                                                    <path
-                                                                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                                    </path>
-                                                                </svg></div>
-                                                        </div><span
-                                                            class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                            data-css="tve-u-17e821c70a2" style=""><strong>A
-                                                                Proven-to-work strategy</strong></span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="thrv_wrapper thrv_text_element" style=""
-                                                data-css="tve-u-17e82054e0d">
-                                                <p data-css="tve-u-17e8203eabf" style="text-align: center;">
-                                                    <strong>Unfortunately, this FREE VIDEO is only available for the
-                                                        first 150 people, Get it while you can! </strong></p>
-                                            </div>
-                                            <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e821245d3"
-                                                style="">
-                                                <span class="tve_image_frame"><img class="tve_image wp-image-102" alt=""
-                                                        data-id="102" width="183" data-init-width="480" height="165"
-                                                        data-init-height="432" title="75efc5c504cebcaeab51766b5eff9bcf"
-                                                        loading="lazy"
-                                                        src="https://www.calebismarketing.com/wp-content/uploads/2022/02/75efc5c504cebcaeab51766b5eff9bcf.gif"
-                                                        data-width="183" data-height="165" mt-d="0" style=""
-                                                        data-css="tve-u-17e821255c5"></span>
-                                            </div>
-                                    </div>
-                                    <div class="thrv_wrapper thrv-page-section tve-height-update"
-                                        data-inherit-lp-settings="1">
-                                        <div class="tve-page-section-out"></div>
-                                        <div class="tve-page-section-in">
-                                            <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
-                                                style="" data-css="tve-u-17e820a8f8e">
-                                                <div class="tve-content-box-background"></div>
-                                                <div class="tve-cb">
-                                                    <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tcb-with-icon tcb-flip tve_ea_thrive_animation tve_anim_forward"
-                                                        data-button-style="btn-tpl-58405" data-css="tve-u-17e82206290"
-                                                        style="">
-                                                        <div class="thrive-colors-palette-config"
-                                                            style="display: none !important">
-                                                        </div>
-
-                                                        <a href="https://wa.link/15s7ua "
-                                                            class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover"
-                                                            data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;forward&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__"
-                                                            style=""><span class="tcb-button-icon">
-                                                                <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                                    data-css="tve-u-17e82206296" style=""><svg
-                                                                        class="tcb-icon" viewBox="0 0 512 512"
-                                                                        data-id="icon-arrow-circle-up-solid"
-                                                                        data-name="">
-                                                                        <path
-                                                                            d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm143.6 28.9l72.4-75.5V392c0 13.3 10.7 24 24 24h16c13.3 0 24-10.7 24-24V209.4l72.4 75.5c9.3 9.7 24.8 9.9 34.3.4l10.9-11c9.4-9.4 9.4-24.6 0-33.9L273 107.7c-9.4-9.4-24.6-9.4-33.9 0L106.3 240.4c-9.4 9.4-9.4 24.6 0 33.9l10.9 11c9.6 9.5 25.1 9.3 34.4-.4z">
-                                                                        </path>
-                                                                    </svg></div>
-                                                            </span>
-
-                                                            <span class="tcb-button-texts"><span
-                                                                    class="tcb-button-text thrv-inline-text" style=""
-                                                                    data-css="tve-u-17e8220629a"><strong>CLICK HERE TO
-                                                                        GET ACCESS TO
-                                                                        FREE VIDEO</strong></span></span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
-                                        <p dir="ltr">My neme is <strong> Ogbe Excel John, </p>
-                                    </div>
-                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e876acde2" style="">
-                                        <span class="tve_image_frame"><img class="tve_image wp-image-63" alt=""
-                                                data-id="63" width="189" data-init-width="1920" height="251"
-                                                data-init-height="2560" title="IMG_4249" loading="lazy"
-                                                src="https://idyllic-klepon-d7c501.netlify.app/image11.jpeg" alt="Image"
-                                                data-width="189" data-height="251" ml-d="0" mt-d="0" style=""
-                                                data-css="tve-u-17e876afc02" mt-m="0"></span>
-                                    </div>
-                                    <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
-                                        <p dir="ltr"></strong> I am a Digital Digital Skill Coach & online Marketer.
-                                            I've been able to make <strong>Multiple 7 figures for myself</strong>
-                                            through a Simple
-                                            Ever-Green Business Model</strong> called Affiliate Marketing</p>
-                                    </div>
-                                    <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
-                                        <p dir="ltr"><strong> Not only have I earned this much for myself from this
-                                                business model, but I have also been able to show my students and they
-                                                replicate these results for themselves.</strong> </p>
+                                        <p data-css="tve-u-180247c01b3" style="text-align: center;"><span
+                                                data-css="tve-u-180247c01c9">This site is not a part of the YouTube,
+                                                Google or Facebook website; Google Inc or Facebook Inc. Additionally,
+                                                This site is NOT endorsed by YouTube, Google or Facebook in any way.
+                                                FACEBOOK is a trademark of FACEBOOK, Inc. YOUTUBE is a trademark of
+                                                GOOGLE Inc.</span></p>
+                                        <p data-css="tve-u-180247c01b6" style="text-align: center;"><span
+                                                data-css="tve-u-180247c01cb"></span><br></p>
+                                        <p data-css="tve-u-180247b3f89" style="text-align: center;"><span
+                                                data-css="tve-u-180247b109e"></span><br></p>
+                                        <p style="text-align: center;" data-css="tve-u-180247b3f8a"><span
+                                                data-css="tve-u-180247b10a0"><br></span></p>
+                                        <p style="text-align: center;" data-css="tve-u-180247b3f8c"><span
+                                                data-css="tve-u-180247b10a1"><span data-css="tve-u-180247b3f9b"><span
+                                                        data-css="tve-u-180247b3f9d"><strong>DISCLAIMER:</strong></span></span></span>
+                                        </p>
+                                        <p data-css="tve-u-180247c01bb" style="text-align: center;"><span
+                                                data-css="tve-u-180247c01d2"><span data-css="tve-u-180247c01d4"><span
+                                                        data-css="tve-u-180247c01d6">The earnings, claims, and promises
+                                                        discussed in this training are our personal results and in some
+                                                        cases results of constant practice. Please understand these
+                                                        results are not typical. We’re not implying you’ll duplicate
+                                                        them (or do anything for that matter). The average person who
+                                                        watches “how to” information program get little to no results.
+                                                        We’re using these references for example purposes only. Your
+                                                        results will vary and depend on many factors including but not
+                                                        limited to your background, experience, and work ethic. All
+                                                        business entails risk as well as massive and consistent effort
+                                                        and action. If you’re not willing to accept that, please DO NOT
+                                                        ATTEND THIS TRAINING.</span></span></span></p>
+                                        <p data-css="tve-u-180247b3f8d" style="text-align: center;"><span
+                                                data-css="tve-u-180247b10a3"><span data-css="tve-u-180247b3fa1"><span
+                                                        data-css="tve-u-180247b3fa3"></span></span></span><br></p>
+                                        <p data-css="tve-u-180247b3f8f" style="text-align: center;"><span
+                                                data-css="tve-u-180247b10a4"><br></span></p>
+                                        <p data-css="tve-u-180247b3f91" style="text-align: center;"><span
+                                                data-css="tve-u-180247b10a5"><span
+                                                    data-css="tve-u-180247b3fa6"><strong><span
+                                                            data-css="tve-u-180247b3fa8">Copyright
+                                                            ©2022&nbsp;&nbsp;<strong><span
+                                                                    data-css="tve-u-180247b3faa">—</span></strong>&nbsp;
+                                                            Ogbe Excel&nbsp; —
+                                                            &nbsp;</span></strong></span></span><strong><span
+                                                    data-css="tve-u-180247b10a7">All Rights Reserved.</span></strong>
+                                        </p>
                                     </div>
                                 </div>
-                                <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
-                                    <span class="tve_image_frame"><img class="tve_image wp-image-51" alt="" data-id="51"
-                                            width="375" data-init-width="1080" height="375" data-init-height="1080"
-                                            title="Facebook Ads flyer" loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image1.jpeg" data-width="375"
-                                            data-height="375" ml-d="0" mt-d="0" style=""
-                                            data-css="tve-u-17e8208df3d"></span>
-                                </div>
-
-                                <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
-                                    <span class="tve_image_frame"><img class="tve_image wp-image-51" alt="" data-id="51"
-                                            width="375" data-init-width="1080" height="375" data-init-height="1080"
-                                            title="Facebook Ads flyer" loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image2.jpeg" data-width="375"
-                                            data-height="375" ml-d="0" mt-d="0" style=""
-                                            data-css="tve-u-17e8208df3d"></span>
-                                </div>
-                                <p dir="ltr"> Making Money Online is not easy but it is very possible…</p>
-                                <p dir="ltr"><br></p>
-                                <p dir="ltr">And Affiliate marketing is that simple business model that can make
-                                    that possible, it is simple if you have the right business strategy. </p>
-                                <p dir="ltr"><br></p>
-                                <p dir="ltr">My aim is to provide you with information that helps you
-                                    understand; </p>
-                                <p dir="ltr"><br></p>
-
-
-                            </div>
-                            <div class="thrv_wrapper thrv-styled_list" data-icon-code="icon-check" style=""
-                                data-css="tve-u-17e821c66ae">
-                                <ul class="tcb-styled-list">
-                                    <li class="thrv-styled-list-item">
-                                        <div class="tcb-styled-list-icon">
-                                            <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
-                                                    viewBox="0 0 512 512" data-id="icon-arrow-circle-right-solid"
-                                                    data-name="" style="">
-                                                    <path
-                                                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                    </path>
-                                                </svg></div>
-                                        </div><span
-                                            class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                            data-css="tve-u-17e821c70a2" style="">
-                                            <div><strong>What this Business Model is all about?.</strong></div>
-                                        </span>
-                                    </li>
-                                    <div><br></div>
-                                    <li class="thrv-styled-list-item">
-                                        <div class="tcb-styled-list-icon">
-                                            <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
-                                                    viewBox="0 0 512 512" data-id="icon-arrow-circle-right-solid"
-                                                    data-name="" style="">
-                                                    <path
-                                                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                    </path>
-                                                </svg></div>
-                                        </div><span
-                                            class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                            data-css="tve-u-17e821c70a2" style=""><strong>How it
-                                                works</strong></span>
-                                    </li>
-                                    <li class="thrv-styled-list-item">
-                                        <div class="tcb-styled-list-icon">
-                                            <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
-                                                    viewBox="0 0 512 512" data-id="icon-arrow-circle-right-solid"
-                                                    data-name="" style="">
-                                                    <path
-                                                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                    </path>
-                                                </svg></div>
-                                        </div><span
-                                            class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                            data-css="tve-u-17e821c70a2" style=""><strong>The exact strategy I
-                                                and my students to make multiple 6 figures
-                                                weekly</strong></span>
-                                    </li>
-                                    <li class="thrv-styled-list-item">
-                                        <div class="tcb-styled-list-icon">
-                                            <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
-                                                    viewBox="0 0 512 512" data-id="icon-arrow-circle-right-solid"
-                                                    data-name="" style="">
-                                                    <path
-                                                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                    </path>
-                                                </svg></div>
-                                        </div><span
-                                            class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                            data-css="tve-u-17e821c70a2" style=""><strong>A case study of how I
-                                                make not less than..100k and above every week</strong></span>
-                                    </li>
-                                    <li class="thrv-styled-list-item">
-                                        <div class="tcb-styled-list-icon">
-                                            <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
-                                                    viewBox="0 0 512 512" data-id="icon-arrow-circle-right-solid"
-                                                    data-name="" style="">
-                                                    <path
-                                                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                    </path>
-                                                </svg></div>
-                                        </div><span
-                                            class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                            data-css="tve-u-17e821c70a2" style=""><strong>How YOU can get
-                                                started making money with this Business Model</strong></span>
-                                    </li>
-                                    <br>
-                                    <li class="thrv-styled-list-item">
-                                        <div class="tcb-styled-list-icon">
-                                            <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
-                                                    viewBox="0 0 512 512" data-id="icon-arrow-circle-right-solid"
-                                                    data-name="" style="">
-                                                    <path
-                                                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                    </path>
-                                                </svg></div>
-                                        </div><span
-                                            class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                            data-css="tve-u-17e821c70a2" style=""><strong>How you can make money
-                                                from the skills you will learn from the training course outside
-                                                affiliate marketing</strong></span>
-                                    </li>
-                                    <br>
-                                    <li class="thrv-styled-list-item">
-                                        <div class="tcb-styled-list-icon">
-                                            <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                data-css="tve-u-17e821c6ec9" style=""><svg class="tcb-icon"
-                                                    viewBox="0 0 512 512" data-id="icon-arrow-circle-right-solid"
-                                                    data-name="" style="">
-                                                    <path
-                                                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z">
-                                                    </path>
-                                                </svg></div>
-                                        </div><span
-                                            class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                            data-css="tve-u-17e821c70a2" style=""><strong>How to sell other
-                                                people's products in Nigeria and international countries, so you
-                                                have the option to choose which currency you want to
-                                                earn.</strong></span>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tcb-with-icon tcb-flip tve_ea_thrive_animation tve_anim_forward"
-                                data-button-style="btn-tpl-58405" data-css="tve-u-17e82297572" style="">
-                                <div class="thrive-colors-palette-config" style="display: none !important">
-                                </div>
-
-                                <a href="https://wa.link/15s7ua"
-                                    class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover"
-                                    data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;forward&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__"
-                                    style=""><span class="tcb-button-icon">
-                                        <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                            data-css="tve-u-17e82297576" style=""><svg class="tcb-icon"
-                                                viewBox="0 0 512 512" data-id="icon-arrow-circle-up-solid" data-name="">
-                                                <path
-                                                    d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm143.6 28.9l72.4-75.5V392c0 13.3 10.7 24 24 24h16c13.3 0 24-10.7 24-24V209.4l72.4 75.5c9.3 9.7 24.8 9.9 34.3.4l10.9-11c9.4-9.4 9.4-24.6 0-33.9L273 107.7c-9.4-9.4-24.6-9.4-33.9 0L106.3 240.4c-9.4 9.4-9.4 24.6 0 33.9l10.9 11c9.6 9.5 25.1 9.3 34.4-.4z">
-                                                </path>
-                                            </svg></div>
-                                    </span>
-
-                                    <span class="tcb-button-texts"><span class="tcb-button-text thrv-inline-text"
-                                            style="" data-css="tve-u-17e82297579"><strong>CLICK HERE TO GET ACCESS
-                                                TO
-                                                FREE VIDEO</strong></span></span>
-                                </a>
-                            </div>
-                            <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
-
-                                <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
-                                    <p dir="ltr">If you are wondering why I am sure about this business model anyone
-                                        can start online in Nigeria, it's because <strong>I have made my own
-                                            millions from it. </strong>Here's what my students are saying...</p>
-                                </div>
-                            </div>
-                            <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e82200799">
-                                <p dir="ltr">And that is why I want to show you how this is done too, and
-                                    <strong><span style="text-decoration: underline;">how you can claim this
-                                            online wealth for yourself in 2022</span></strong> too.
-                                </p>
-                                <p dir="ltr"><br></p>
-                                <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
-                                    <span class="tve_image_frame"><img class="tve_image wp-image-51" alt="" data-id="51"
-                                            width="375" data-init-width="1080" height="375" data-init-height="1080"
-                                            title="Facebook Ads flyer" loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image3.jpeg" data-width="375"
-                                            data-height="375" ml-d="0" mt-d="0" style="" data-css="tve-u-17e8208df3d">
-                                    </span>
-                                </div>
-                                <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
-                                    <span class="tve_image_frame"><img class="tve_image wp-image-51" alt="" data-id="51"
-                                            width="375" data-init-width="1080" height="375" data-init-height="1080"
-                                            title="Facebook Ads flyer" loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image4.jpeg" data-width="375"
-                                            data-height="375" ml-d="0" mt-d="0" style="" data-css="tve-u-17e8208df3d">
-                                    </span>
-                                </div>
-                                <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
-                                    <span class="tve_image_frame"><img class="tve_image wp-image-51" alt="" data-id="51"
-                                            width="375" data-init-width="1080" height="375" data-init-height="1080"
-                                            title="Facebook Ads flyer" loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image5.jpeg" data-width="375"
-                                            data-height="375" ml-d="0" mt-d="0" style="" data-css="tve-u-17e8208df3d">
-                                    </span>
-                                </div>
-                                <br><br><br>
-                                <div class="thrv_wrapper thrv-page-section tve-height-update"
-                                    data-inherit-lp-settings="1">
-                                    <div class="tve-page-section-out"></div>
-                                    <div class="tve-page-section-in">
-                                        <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad"
-                                            style="" data-css="tve-u-17e820a8f8e">
-                                            <div class="tve-content-box-background"></div>
-                                            <div class="tve-cb">
-                                                <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tcb-with-icon tcb-flip tve_ea_thrive_animation tve_anim_forward"
-                                                    data-button-style="btn-tpl-58405" data-css="tve-u-17e82206290"
-                                                    style="">
-                                                    <div class="thrive-colors-palette-config"
-                                                        style="display: none !important">
-                                                    </div>
-
-                                                    <a href="https://wa.link/15s7ua "
-                                                        class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover"
-                                                        data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;forward&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__"
-                                                        style=""><span class="tcb-button-icon">
-                                                            <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                                                data-css="tve-u-17e82206296" style=""><svg
-                                                                    class="tcb-icon" viewBox="0 0 512 512"
-                                                                    data-id="icon-arrow-circle-up-solid" data-name="">
-                                                                    <path
-                                                                        d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm143.6 28.9l72.4-75.5V392c0 13.3 10.7 24 24 24h16c13.3 0 24-10.7 24-24V209.4l72.4 75.5c9.3 9.7 24.8 9.9 34.3.4l10.9-11c9.4-9.4 9.4-24.6 0-33.9L273 107.7c-9.4-9.4-24.6-9.4-33.9 0L106.3 240.4c-9.4 9.4-9.4 24.6 0 33.9l10.9 11c9.6 9.5 25.1 9.3 34.4-.4z">
-                                                                    </path>
-                                                                </svg></div>
-                                                        </span>
-
-                                                        <span class="tcb-button-texts"><span
-                                                                class="tcb-button-text thrv-inline-text" style=""
-                                                                data-css="tve-u-17e8220629a"><strong>CLICK HERE TO GET
-                                                                    ACCESS TO
-                                                                    FREE VIDEO</strong></span></span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
-                                    <span class="tve_image_frame"><img class="tve_image wp-image-51" alt="" data-id="51"
-                                            width="375" data-init-width="1080" height="375" data-init-height="1080"
-                                            title="Facebook Ads flyer" loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image6.jpeg" data-width="375"
-                                            data-height="375" ml-d="0" mt-d="0" style="" data-css="tve-u-17e8208df3d">
-                                    </span>
-                                </div>
-                                <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
-                                    <span class="tve_image_frame"><img class="tve_image wp-image-51" alt="" data-id="51"
-                                            width="375" data-init-width="1080" height="375" data-init-height="1080"
-                                            title="Facebook Ads flyer" loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image8.jpeg" data-width="375"
-                                            data-height="375" ml-d="0" mt-d="0" style="" data-css="tve-u-17e8208df3d">
-                                    </span>
-                                </div>
-                                <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
-                                    <span class="tve_image_frame"><img class="tve_image wp-image-51" alt="" data-id="51"
-                                            width="375" data-init-width="1080" height="375" data-init-height="1080"
-                                            title="Facebook Ads flyer" loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image9.jpeg" data-width="375"
-                                            data-height="375" ml-d="0" mt-d="0" style="" data-css="tve-u-17e8208df3d">
-                                    </span>
-                                </div>
-                            </div>
-                            <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
-                                <span class="tve_image_frame"><img class="tve_image wp-image-51" alt="" data-id="51"
-                                        width="375" data-init-width="1080" height="375" data-init-height="1080"
-                                        title="Facebook Ads flyer" loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image10.jpeg" data-width="375"
-                                        data-height="375" ml-d="0" mt-d="0" style="" data-css="tve-u-17e8208df3d">
-                                </span>
                             </div>
                         </div>
-                        <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
-                            <span class="tve_image_frame"><img class="tve_image wp-image-51" alt="" data-id="51"
-                                    width="375" data-init-width="1080" height="375" data-init-height="1080"
-                                    title="Facebook Ads flyer" loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image12.jpeg" data-width="375"
-                                    data-height="375" ml-d="0" mt-d="0" style="" data-css="tve-u-17e8208df3d">
-                            </span>
-                        </div>
-                    </div>
-                    <p dir="ltr">To get started, <strong>Click the BUTTON
-                            below</strong><strong>;</strong></p>
-                </div>
-                <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tcb-with-icon tcb-flip tve_ea_thrive_animation tve_anim_forward"
-                    data-button-style="btn-tpl-58405" data-css="tve-u-17e87697136" style="">
-                    <div class="thrive-colors-palette-config" style="display: none !important">
-                    </div>
-
-                    <a href="https://wa.link/15s7ua "
-                        class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover"
-                        data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;forward&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__"
-                        style=""><span class="tcb-button-icon">
-                            <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                data-css="tve-u-17e8769713a" style=""><svg class="tcb-icon" viewBox="0 0 512 512"
-                                    data-id="icon-arrow-circle-up-solid" data-name="">
-                                    <path
-                                        d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm143.6 28.9l72.4-75.5V392c0 13.3 10.7 24 24 24h16c13.3 0 24-10.7 24-24V209.4l72.4 75.5c9.3 9.7 24.8 9.9 34.3.4l10.9-11c9.4-9.4 9.4-24.6 0-33.9L273 107.7c-9.4-9.4-24.6-9.4-33.9 0L106.3 240.4c-9.4 9.4-9.4 24.6 0 33.9l10.9 11c9.6 9.5 25.1 9.3 34.4-.4z">
-                                    </path>
-                                </svg></div>
-                        </span>
-
-                        <span class="tcb-button-texts"><span class="tcb-button-text thrv-inline-text" style=""
-                                data-css="tve-u-17e8769713c"><strong>CLICK HERE TO GET ACCESS TO
-                                    FREE VIDEO</strong></span></span>
-                    </a>
-                </div>
-                <p><strong>The Amazing Part Is That, I Have Made It More Easier For You.;</strong></p>
-                <p dir="ltr"><br></p>
-                <p dir="ltr"><strong><span data-css="tve-u-17e8223d27a">1.</span></strong> I will provide all the
-                    knowledge you need to start making multiple incomes online with Affiliate Marketing.</p>
-                <p dir="ltr"><br></p>
-                <p dir="ltr"><strong><span data-css="tve-u-17e822403cc">2.</span></strong> I will guide you to see you
-                    really start making the money you want.</p>
-                <p dir="ltr"><br></p>
-                <div class="thrv_wrapper thrv_text_element">
-                    <p dir="ltr">I am not like every other coaches out there who will make alot of promise and at the
-                        end you will achieve less.</p>
-                    <br>
-                    <p dir="ltr">That Sounds easy, right?</p>
-                    <br>
-
-                    <p dir="ltr">That is because it’s very easy, there’s nothing complicated about it.</p>
-                    <br>
-
-                    <p dir="ltr">If you don’t have the right coach to teach you exactly what to do when building your
-                        Affiliate Marketing business, then your failure is pretty much the only thing that is
-                        guaranteed.</p>
-                    <br>
-
-                    <p dir="ltr">You Need a Mentor, Someone who had recorded a high rate of success in Affiliate
-                        Marketing with a lot of proof to justify.</p>
-                    <br>
-
-                    <p dir="ltr">It’s been over 6 months that I’ve been secretly using this system to consistently
-                        generate 100k-200k Weekly selling other peoples products online and earn a commission per sale.
-                    </p>
-                    <br>
-
-                    <p dir="ltr">But that’s not all, in order for you to earn at least 250k monthly you need a badass
-                        marketing strategy.</p>
-                    <br>
-
-                    <p dir="ltr">This is the same strategy I used in generating nothing less than #250k every month.</p>
-                    <br>
-
-                    <p dir="ltr">I know you are eager to know what this strategy is? </p>
-                    <br>
-
-                    <p dir="ltr">This is why I have created an online class where I will be revealing my proven strategy
-                        that has made me achieved this result.</p>
-                    <br>
-
-                    <p dir="ltr">Now I feel it’s time for me to share this SECRET STRATEGY with few people.</p>
-                    <br>
-
-                    <p dir="ltr">THIS WEBINAR WAS CREATED to give you in-depth training, to show you exactly how you can
-                        start profiting from this system and make up to 100k to 200k Monthy with my Mentorship by
-                        promoting affiliate offers from the comfort of your home.</p>
-                    <p dir="ltr"><br></p>
-                    <p dir="ltr"><br></p>
-                    <p dir="ltr" style="text-align: center;"><strong><span style="text-decoration: underline;">If
-                                you do this fast you might
-                                meet the 150 people requirements for this month.</span></strong></p>
-                </div>
-                <div class="thrv_wrapper tve_image_caption" data-css="tve-u-17e82087fe8" style="">
-                    <span class="tve_image_frame"><img class="tve_image wp-image-10" alt="" data-id="51" width="375"
-                            data-init-width="1080" height="375" data-init-height="1080" title="Facebook Ads flyer"
-                            loading="lazy" src="https://idyllic-klepon-d7c501.netlify.app/image13.gif" data-width="375" data-height="375" ml-d="0" mt-d="0"
-                            style="" data-css="tve-u-17e8208df3d"></span>
-                </div>
-                <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tcb-with-icon tcb-flip tve_ea_thrive_animation tve_anim_forward"
-                    data-button-style="btn-tpl-58405" data-css="tve-u-17e820a4536" style="">
-                    <div class="thrive-colors-palette-config" style="display: none !important">
-                    </div>
-
-
-                    <a href="https://wa.link/15s7ua "
-                        class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover"
-                        data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;forward&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__"
-                        style=""><span class="tcb-button-icon">
-                            <div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
-                                data-css="tve-u-17e820aac48" style=""><svg class="tcb-icon" viewBox="0 0 512 512"
-                                    data-id="icon-arrow-circle-up-solid" data-name="">
-                                    <path
-                                        d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm143.6 28.9l72.4-75.5V392c0 13.3 10.7 24 24 24h16c13.3 0 24-10.7 24-24V209.4l72.4 75.5c9.3 9.7 24.8 9.9 34.3.4l10.9-11c9.4-9.4 9.4-24.6 0-33.9L273 107.7c-9.4-9.4-24.6-9.4-33.9 0L106.3 240.4c-9.4 9.4-9.4 24.6 0 33.9l10.9 11c9.6 9.5 25.1 9.3 34.4-.4z">
-                                    </path>
-                                </svg></div>
-                        </span>
-
-                        <span class="tcb-button-texts"><span class="tcb-button-text thrv-inline-text" style=""
-                                data-css="tve-u-17e820dae85"><strong>CLICK HERE TO GET ACCESS TO
-                                    FREE VIDEO</strong></span></span>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    </div>
-    <div class="thrv_wrapper thrv-page-section tve-height-update" data-inherit-lp-settings="1">
-        <div class="tve-page-section-out" style="" data-css="tve-u-17e822a5fbf"></div>
-        <div class="tve-page-section-in tve_empty_dropzone" style="" data-css="tve-u-17e822cb115">
-            <div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve-elem-default-pad" style=""
-                data-css="tve-u-17e822a8e34">
-                <div class="tve-content-box-background"></div>
-                <div class="thrv_wrapper thrv_text_element">
-                    <p data-css="tve-u-17e822c24a8" style="text-align: center;"><span
-                            data-css="tve-u-17e822c24c1"><span data-css="tve-u-17e822bb538"><span
-                                    data-css="tve-u-17e822c24c6">This Site Is Not A Part Of The
-                                    Facebook Website Or Facebook Inc. Additionally, This Site Is Not
-                                    Endorsed By Facebook In Any Way. FACEBOOK Is A Trademark Of
-                                    FACEBOOK, Inc.</span></span><strong><span
-                                    data-css="tve-u-17e822c24c9"></span></strong></span></p>
-                </div>
-                <div class="tve-cb">
-                    <div class="thrv_wrapper thrv_text_element">
-                        <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e822bc9af" style="">
-                            <p data-css="tve-u-17e822aeddc" style="text-align: center;"><span
-                                    data-css="tve-u-17e822aedef"><strong><span data-css="tve-u-17e822aedf0">DISCLAIMER:
-
-
-                                    </strong>
-                            </p>
-                        </div>
-                        <br>
-                        <p data-css="tve-u-17e822c24a8" style="text-align: center;"><span
-                                data-css="tve-u-17e822c24c1"><span data-css="tve-u-17e822bb538"><span
-                                        data-css="tve-u-17e822c24c6">The earnings, claims, and promises discussed in this training are our personal results and in some cases results of constant practice. Please understand these results are not typical. We’re not implying you’ll duplicate them (or do anything for that matter). The average person who watches “how to” information program get little to no results. We’re using these references for example purposes only. Your results will vary and depend on many factors including but not limited to your background, experience, and work ethic. All business entails risk as well as massive and consistent effort and action. If you’re not willing to accept that, please DO NOT ATTEND THIS TRAINING.</span></span><strong><span
-                                        data-css="tve-u-17e822c24c9"></span></strong></span></p>
-                    </div>
-
-
-                    <div class="thrv_wrapper thrv_text_element" data-css="tve-u-17e822bc9af" style="">
-                        <p data-css="tve-u-17e822aeddc" style="text-align: center;"><span
-                                data-css="tve-u-17e822aedef"><strong><span data-css="tve-u-17e822aedf0">Copyright
-                                        ©2022&nbsp;&nbsp;<strong><span
-                                                data-css="tve-u-17e822aedf4">—&nbsp;</span></strong>Ogbe
-                                        Excel—&nbsp;</span></strong></span><strong><span
-                                    data-css="tve-u-17e822aedf6">All Rights Reserved.</span></strong>
-                        </p>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="fr-dropdown-holder tcb-style-wrap"></div>
     </div>
-
-    </div>
-    </div>
-    </div>
-    <div class="fr-dropdown-holder tcb-style-wrap"></div>
-    </div>
-
     <!-- Meta Pixel Code -->
     <script>
         !function (f, b, e, v, n, t, s) {
             if (f.fbq) return; n = f.fbq = function () {
                 n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
             };
             if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
             n.queue = []; t = b.createElement(e); t.async = !0;
@@ -1923,34 +1962,35 @@
     <noscript><img height="1" width="1" style="display:none"
             src="https://www.facebook.com/tr?id=1371832563228056&ev=PageView&noscript=1" /></noscript>
     <!-- End Meta Pixel Code -->
-    <script src='https://www.calebismarketing.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4'
+    <script src='https://www.phenomenalcassandra.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4'
         id='imagesloaded-js'></script>
-    <script src='https://www.calebismarketing.com/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
-    <script src='https://www.calebismarketing.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'
+    <script src='https://www.phenomenalcassandra.com/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+    <script src='https://www.phenomenalcassandra.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'
         id='jquery-masonry-js'></script>
     <script id='tve_frontend-js-extra'>
-        var tve_frontend_options = { "ajaxurl": "https:\/\/www.calebismarketing.com\/wp-admin\/admin-ajax.php", "is_editor_page": "", "page_events": [], "is_single": "1", "social_fb_app_id": "", "dash_url": "https:\/\/www.calebismarketing.com\/wp-content\/plugins\/thrive-visual-editor\/thrive-dashboard", "translations": { "Copy": "Copy", "empty_username": "ERROR: The username field is empty.", "empty_password": "ERROR: The password field is empty.", "empty_login": "ERROR: Enter a username or email address.", "min_chars": "At least %s characters are needed", "no_headings": "No headings found", "registration_err": { "required_field": "<strong>Error<\/strong>: This field is required", "required_email": "<strong>Error<\/strong>: Please type your email address.", "invalid_email": "<strong>Error<\/strong>: The email address isn&#8217;t correct.", "passwordmismatch": "<strong>Error<\/strong>: Password mismatch" } }, "routes": { "posts": "https:\/\/www.calebismarketing.com\/wp-json\/tcb\/v1\/posts" }, "post_request_data": [], "ip": "197.210.227.8", "current_user": [], "post_id": "15", "post_title": "This Century Old but\u00a0Simple 3 Step System\u00a0Will Make You As Much As\u00a0\u20a6300-500k Monthly.", "post_type": "page", "post_url": "https:\/\/www.calebismarketing.com\/free-video-2\/", "is_lp": "tcb2-clickjournalist-sales-page" };
+        var tve_frontend_options = { "ajaxurl": "https:\/\/www.phenomenalcassandra.com\/wp-admin\/admin-ajax.php", "is_editor_page": "", "page_events": [], "is_single": "1", "social_fb_app_id": "", "dash_url": "https:\/\/www.phenomenalcassandra.com\/wp-content\/plugins\/thrive-visual-editor\/thrive-dashboard", "translations": { "Copy": "Copy", "empty_username": "ERROR: The username field is empty.", "empty_password": "ERROR: The password field is empty.", "empty_login": "ERROR: Enter a username or email address.", "min_chars": "At least %s characters are needed", "no_headings": "No headings found", "registration_err": { "required_field": "<strong>Error<\/strong>: This field is required", "required_email": "<strong>Error<\/strong>: Please type your email address.", "invalid_email": "<strong>Error<\/strong>: The email address isn&#8217;t correct.", "passwordmismatch": "<strong>Error<\/strong>: Password mismatch" } }, "routes": { "posts": "https:\/\/www.phenomenalcassandra.com\/wp-json\/tcb\/v1\/posts" }, "post_request_data": [], "ip": "197.211.61.38", "current_user": [], "post_id": "60", "post_title": "The Real truth about making Money Online, especially through Affiliate Marketing", "post_type": "page", "post_url": "https:\/\/www.phenomenalcassandra.com\/the-truth\/", "is_lp": "tcb2-clickjournalist-sales-page" };
     </script>
     <script
-        src='https://www.calebismarketing.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/frontend.min.js?ver=2.6.2.1'
+        src='https://www.phenomenalcassandra.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/frontend.min.js?ver=2.6.2.1'
         id='tve_frontend-js'></script>
     <script id='tve-dash-frontend-js-extra'>
-        var tve_dash_front = { "ajaxurl": "https:\/\/www.calebismarketing.com\/wp-admin\/admin-ajax.php", "force_ajax_send": "1", "is_crawler": "", "recaptcha": [] };
+        var tve_dash_front = { "ajaxurl": "https:\/\/www.phenomenalcassandra.com\/wp-admin\/admin-ajax.php", "force_ajax_send": "1", "is_crawler": "", "recaptcha": [] };
     </script>
     <script
-        src='https://www.calebismarketing.com/wp-content/plugins/thrive-visual-editor/thrive-dashboard/js/dist/frontend.min.js?ver=2.3.4.1'
+        src='https://www.phenomenalcassandra.com/wp-content/plugins/thrive-visual-editor/thrive-dashboard/js/dist/frontend.min.js?ver=2.3.4.1'
         id='tve-dash-frontend-js'></script>
     <script id='fca_pc_client_js-js-extra'>
         var fcaPcEvents = [];
-        var fcaPcPost = { "title": "This Century Old but\u00a0Simple 3 Step System\u00a0Will Make You As Much As\u00a0\u20a6300-500k Monthly.", "type": "page", "id": "15", "categories": [], "utm_support": "", "user_parameters": "", "edd_delay": "0", "woo_delay": "0", "edd_enabled": "", "woo_enabled": "", "video_enabled": "" };
-        var fcaPcCAPI = { "pixels": ["{\"type\":\"Facebook Pixel\",\"pixel\":\"7297931180278959\",\"capi\":\"\",\"test\":\"\",\"paused\":false,\"ID\":\"e830136a-9bf2-4450-ad99-9dac38318860\"}"], "ajax_url": "https:\/\/www.calebismarketing.com\/wp-admin\/admin-ajax.php", "nonce": "aa8d54da07", "debug": "" };
+        var fcaPcPost = { "title": "The Real truth about making Money Online, especially through Affiliate Marketing", "type": "page", "id": "60", "categories": [], "utm_support": "", "user_parameters": "", "edd_delay": "0", "woo_delay": "0", "edd_enabled": "", "woo_enabled": "", "video_enabled": "" };
+        var fcaPcCAPI = { "pixels": ["{\"type\":\"Facebook Pixel\",\"pixel\":\"1141301486644352\",\"capi\":\"\",\"test\":\"\",\"paused\":false,\"ID\":\"8e9279a9-604b-46e2-8f7a-b22c4b8200eb\"}"], "ajax_url": "https:\/\/www.phenomenalcassandra.com\/wp-admin\/admin-ajax.php", "nonce": "41836585cc", "debug": "" };
     </script>
     <script
-        src='https://www.calebismarketing.com/wp-content/plugins/facebook-conversion-pixel/pixel-cat.min.js?ver=2.6.6'
+        src='https://www.phenomenalcassandra.com/wp-content/plugins/facebook-conversion-pixel/pixel-cat.min.js?ver=2.6.6'
         id='fca_pc_client_js-js'></script>
-    <script src='https://www.calebismarketing.com/wp-content/plugins/facebook-conversion-pixel/video.js?ver=5.9.3'
+    <script src='https://www.phenomenalcassandra.com/wp-content/plugins/facebook-conversion-pixel/video.js?ver=5.9.3'
         id='fca_pc_video_js-js'></script>
     <script type="text/javascript">var tcb_post_lists = JSON.parse('[]');</script>
 </body>
 
 </html>
+
