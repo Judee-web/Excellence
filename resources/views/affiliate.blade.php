@@ -1537,58 +1537,63 @@
                                     </div>
                                     <div class="thrv_wrapper thrv-styled_list" data-icon-code="icon-check">
                                         <ul class="tcb-styled-list">
-                                        <li class="thrv-styled-list-item" data-css="tve-u-180245fccd2">
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
                                                 <div class="tcb-styled-list-icon">
-                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style"
-                                                        data-css="tve-u-180245fccd4" style=""><svg class="tcb-icon"
-                                                            viewBox="0 0 32 32" data-id="icon-check" data-name="">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display"
+                                                        data-css="tve-u-1802448aeca" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512" data-id="icon-check-circle-solid"
+                                                            data-name="" style="">
                                                             <path
-                                                                d="M29.333 10.267c0 0.4-0.133 0.8-0.533 1.2l-14.8 14.8c-0.267 0.267-0.667 0.4-1.067 0.4s-0.933-0.133-1.2-0.533l-2.4-2.267-6.267-6.267c-0.267-0.267-0.4-0.667-0.4-1.2s0.133-0.8 0.533-1.2l2.4-2.4c0.267-0.133 0.667-0.4 1.067-0.4s0.8 0.133 1.2 0.533l5.067 5.067 11.2-11.333c0.267-0.267 0.667-0.533 1.2-0.533 0.4 0 0.8 0.133 1.2 0.533l2.4 2.4c0.267 0.267 0.4 0.667 0.4 1.2z">
+                                                                d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
                                                             </path>
                                                         </svg></div>
                                                 </div><span
                                                     class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                    data-css="tve-u-180245fccd5">A Smart Phone</span>
+                                                    data-css="tve-u-1802449eb67" style=""><strong>A smart phone</strong></span>
                                             </li>
-                                            <li class="thrv-styled-list-item" data-css="tve-u-180245fcccd">
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
                                                 <div class="tcb-styled-list-icon">
-                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root"
-                                                        data-css="tve-u-180245fcccf" style=""><svg class="tcb-icon"
-                                                            viewBox="0 0 32 32" data-id="icon-check" data-name="">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-icon-display tcb-local-vars-root"
+                                                        data-css="tve-u-1802448aeca" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512" data-id="icon-check-circle-solid"
+                                                            data-name="" style="">
                                                             <path
-                                                                d="M29.333 10.267c0 0.4-0.133 0.8-0.533 1.2l-14.8 14.8c-0.267 0.267-0.667 0.4-1.067 0.4s-0.933-0.133-1.2-0.533l-2.4-2.267-6.267-6.267c-0.267-0.267-0.4-0.667-0.4-1.2s0.133-0.8 0.533-1.2l2.4-2.4c0.267-0.133 0.667-0.4 1.067-0.4s0.8 0.133 1.2 0.533l5.067 5.067 11.2-11.333c0.267-0.267 0.667-0.533 1.2-0.533 0.4 0 0.8 0.133 1.2 0.533l2.4 2.4c0.267 0.267 0.4 0.667 0.4 1.2z">
+                                                                d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
                                                             </path>
                                                         </svg></div>
                                                 </div><span
                                                     class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                    data-css="tve-u-180245fccd1">Little Capital to start</span>
+                                                    data-css="tve-u-1802449eb67" style=""><strong>Little Capital to start</strong></span>
                                             </li>
-                                            <li class="thrv-styled-list-item" data-css="tve-u-180245fccd2">
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
                                                 <div class="tcb-styled-list-icon">
-                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style"
-                                                        data-css="tve-u-180245fccd4" style=""><svg class="tcb-icon"
-                                                            viewBox="0 0 32 32" data-id="icon-check" data-name="">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-icon-display tcb-local-vars-root"
+                                                        data-css="tve-u-1802448aeca" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512" data-id="icon-check-circle-solid"
+                                                            data-name="" style="">
                                                             <path
-                                                                d="M29.333 10.267c0 0.4-0.133 0.8-0.533 1.2l-14.8 14.8c-0.267 0.267-0.667 0.4-1.067 0.4s-0.933-0.133-1.2-0.533l-2.4-2.267-6.267-6.267c-0.267-0.267-0.4-0.667-0.4-1.2s0.133-0.8 0.533-1.2l2.4-2.4c0.267-0.133 0.667-0.4 1.067-0.4s0.8 0.133 1.2 0.533l5.067 5.067 11.2-11.333c0.267-0.267 0.667-0.533 1.2-0.533 0.4 0 0.8 0.133 1.2 0.533l2.4 2.4c0.267 0.267 0.4 0.667 0.4 1.2z">
+                                                                d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
                                                             </path>
                                                         </svg></div>
                                                 </div><span
                                                     class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                    data-css="tve-u-180245fccd5">A good Business Model and</span>
+                                                    data-css="tve-u-1802449eb67" style=""><strong>A good business model and</strong></span>
                                             </li>
-                                            <li class="thrv-styled-list-item" data-css="tve-u-180245fccd7">
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
                                                 <div class="tcb-styled-list-icon">
-                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style"
-                                                        data-css="tve-u-180245fccd8" style=""><svg class="tcb-icon"
-                                                            viewBox="0 0 32 32" data-id="icon-check" data-name="">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-icon-display tcb-local-vars-root"
+                                                        data-css="tve-u-18024603143" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512" data-id="icon-check-circle-solid"
+                                                            data-name="" style="">
                                                             <path
-                                                                d="M29.333 10.267c0 0.4-0.133 0.8-0.533 1.2l-14.8 14.8c-0.267 0.267-0.667 0.4-1.067 0.4s-0.933-0.133-1.2-0.533l-2.4-2.267-6.267-6.267c-0.267-0.267-0.4-0.667-0.4-1.2s0.133-0.8 0.533-1.2l2.4-2.4c0.267-0.133 0.667-0.4 1.067-0.4s0.8 0.133 1.2 0.533l5.067 5.067 11.2-11.333c0.267-0.267 0.667-0.533 1.2-0.533 0.4 0 0.8 0.133 1.2 0.533l2.4 2.4c0.267 0.267 0.4 0.667 0.4 1.2z">
+                                                                d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
                                                             </path>
                                                         </svg></div>
                                                 </div><span
                                                     class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                    data-css="tve-u-180245fccda">A Proven-to-work strategy</span>
+                                                    data-css="tve-u-1802449eb67" style=""><strong> A proven-to-work strategy</strong></span>
                                             </li>
+                                            
                                         </ul>
                                     </div>
                                     <div class="thrv_wrapper thrv_text_element">
@@ -1736,8 +1741,8 @@
                                                         </svg></div>
                                                 </div><span
                                                     class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
-                                                    data-css="tve-u-1802449eb67" style="">What is this Business
-                                                    Model?</span>
+                                                    data-css="tve-u-1802449eb67" style="">What this Business
+                                                    Model is all about?</span>
                                             </li>
                                             <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
                                                 <div class="tcb-styled-list-icon">
@@ -1781,8 +1786,8 @@
                                                 </div><span
                                                     class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                     data-css="tve-u-1802449eb67" style="">A <strong>case study</strong>
-                                                    of how I was able to make <strong>N750k</strong> in the first
-                                                    <strong>10 days of February </strong></span>
+                                                    of how I was able to make <strong>N540k</strong> 
+                                                    <strong>in a week </strong></span>
                                             </li>
                                             <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
                                                 <div class="tcb-styled-list-icon">
@@ -1797,7 +1802,22 @@
                                                 </div><span
                                                     class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                     data-css="tve-u-1802449eb67" style="">How <strong>YOU</strong> can
-                                                    get started making money with this Business Model</span>
+                                                    make money from the skills you will learn from the training course outside affiliate marketing</span>
+                                            </li>
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-icon-display tcb-local-vars-root"
+                                                        data-css="tve-u-180246033dd" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 512 512" data-id="icon-check-circle-solid"
+                                                            data-name="" style="">
+                                                            <path
+                                                                d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-1802449eb67" style="">How <strong>to</strong> sell
+                                                   other people's product in nigeria and international countries, so you have the option to choose which currency you want to earn.</span>
                                             </li>
                                         </ul>
                                     </div>
@@ -1902,16 +1922,13 @@
                                         <p data-css="tve-u-180244cd445" dir="ltr" style="">That is because it’s very easy, there’s nothing complicated about it.</p>
                                     </div>
                                     <br>
-                                    <div class="thrv_wrapper thrv_text_element">
-                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">If you don’t have the right coach to teach you exactly what to do when building your Affiliate Marketing business, then your failure is pretty much the only thing that is guaranteed.</p>
-                                    </div>
-                                    <br>
+                                    
                                     <div class="thrv_wrapper thrv_text_element">
                                         <p data-css="tve-u-180244cd445" dir="ltr" style="">You Need a Mentor, Someone who had recorded a high rate of success in Affiliate Marketing with a lot of proof to justify.</p>
                                     </div>
                                     <br>
                                     <div class="thrv_wrapper thrv_text_element">
-                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">It’s been years that I’ve been secretly using this system to consistently generate 100k-200k Weekly selling other peoples products online and earn a commission per sale.</p>
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">Well It's been over 6 months that I have been secretly using this system to consistently generate 100k-200k Weekly selling other peoples products online and earn a commission per sale.</p>
                                     </div>
                                     <br>
                                     <div class="thrv_wrapper thrv_text_element">
