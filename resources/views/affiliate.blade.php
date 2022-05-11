@@ -1469,8 +1469,7 @@
                                 <div class="tve-cb">
                                     <div class="thrv_wrapper thrv_text_element" data-css="tve-u-18024366ca2"
                                         style="--tve-border-width:0px; border: none !important;">
-                                        <p data-css="tve-u-1802434f41e" style="text-align: center;"><strong>Finally
-                                                Exposed!</strong></p>
+                                        <p data-css="tve-u-1802434f41e" style="text-align: center;"><strong>Free Video Reveals!</strong></p>
                                     </div>
                                     <div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-1802433ed80">
                                         <p data-css="tve-u-1802430cedc" style="text-align: center;"><strong>THE REAL
