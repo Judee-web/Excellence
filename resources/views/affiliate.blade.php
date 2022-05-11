@@ -1645,20 +1645,9 @@
                                                 Marketing…</strong>
                                         </p>
                                         <p data-css="tve-u-18024543a40" dir="ltr" style=""><br></p>
-                                        <p data-css="tve-u-18024543a41" dir="ltr" style="">This is how much I have made
-                                            in the last <strong>6 months</strong> from this Business model I am about
-                                            to show you…</p>
+                                    
                                     </div>
-                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-18024555508" style="">
-                                        <span class="tve_image_frame"><img class="tve_image wp-image-92" alt=""
-                                                data-id="92" width="621" data-init-width="1080" height="562"
-                                                data-init-height="976" title="IMG_20220413_153832" loading="lazy"
-                                                src="https://idyllic-klepon-d7c501.netlify.app/image9.jpeg"
-                                                data-width="621" data-height="562" mt-d="0" style=""
-                                                data-css="tve-u-18024556a31"
-                                                srcset="https://idyllic-klepon-d7c501.netlify.app/image9.jpeg"
-                                                sizes="(max-width: 621px) 100vw, 621px" /></span>
-                                    </div>
+                        
                                     <div class="thrv_wrapper thrv_text_element">
                                         <p data-css="tve-u-18024543a3b">Not only have I earned this much for myself from
                                             this business model, but I have also been able <strong>to show my students
