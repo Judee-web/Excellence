@@ -1850,7 +1850,95 @@
                                                 srcset="https://idyllic-klepon-d7c501.netlify.app/image12.jpeg"
                                                 sizes="(max-width: 621px) 100vw, 621px" /></span>
                                     </div>
-
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244c8b31" dir="ltr" style=""><span
+                                                data-css="tve-u-18024433be3">The Amazing Part Is That, I Have Made It More Easier For You.</span></p>
+                                        <p data-css="tve-u-180244c8b33" dir="ltr" style=""><span
+                                                data-css="tve-u-18024434ed2"><span
+                                                    data-css="tve-u-18024433be5"><br></span></span></p>
+                
+                                    </div>
+                                
+                                    <div class="thrv_wrapper thrv-styled_list" data-icon-code="icon-check">
+                                        <ul class="tcb-styled-list">
+                                        <li class="thrv-styled-list-item" data-css="tve-u-180245fccd2">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style"
+                                                        data-css="tve-u-180245fccd4" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 32 32" data-id="icon-check" data-name="">
+                                                            <path
+                                                                d="M29.333 10.267c0 0.4-0.133 0.8-0.533 1.2l-14.8 14.8c-0.267 0.267-0.667 0.4-1.067 0.4s-0.933-0.133-1.2-0.533l-2.4-2.267-6.267-6.267c-0.267-0.267-0.4-0.667-0.4-1.2s0.133-0.8 0.533-1.2l2.4-2.4c0.267-0.133 0.667-0.4 1.067-0.4s0.8 0.133 1.2 0.533l5.067 5.067 11.2-11.333c0.267-0.267 0.667-0.533 1.2-0.533 0.4 0 0.8 0.133 1.2 0.533l2.4 2.4c0.267 0.267 0.4 0.667 0.4 1.2z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-180245fccd5">I will provide all the knowledge you need to start making multiple incomes online with Affiliate Marketing.</span>
+                                            </li>
+                                            <li class="thrv-styled-list-item" data-css="tve-u-180245fcccd">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root"
+                                                        data-css="tve-u-180245fcccf" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 32 32" data-id="icon-check" data-name="">
+                                                            <path
+                                                                d="M29.333 10.267c0 0.4-0.133 0.8-0.533 1.2l-14.8 14.8c-0.267 0.267-0.667 0.4-1.067 0.4s-0.933-0.133-1.2-0.533l-2.4-2.267-6.267-6.267c-0.267-0.267-0.4-0.667-0.4-1.2s0.133-0.8 0.533-1.2l2.4-2.4c0.267-0.133 0.667-0.4 1.067-0.4s0.8 0.133 1.2 0.533l5.067 5.067 11.2-11.333c0.267-0.267 0.667-0.533 1.2-0.533 0.4 0 0.8 0.133 1.2 0.533l2.4 2.4c0.267 0.267 0.4 0.667 0.4 1.2z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-180245fccd1">I will guide you to see you really start making the money you want.</span>
+                                            </li>
+                                
+                                        </ul>
+                                    </div>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">I am not like every other coaches out there who will make alot of promise and at the end you will achieve less.</p>
+                                    </div>
+                                    <br>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">That Sounds easy, right?.</p>
+                                    </div>
+                                    <br>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">That is because it’s very easy, there’s nothing complicated about it.</p>
+                                    </div>
+                                    <br>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">If you don’t have the right coach to teach you exactly what to do when building your Affiliate Marketing business, then your failure is pretty much the only thing that is guaranteed.</p>
+                                    </div>
+                                    <br>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">You Need a Mentor, Someone who had recorded a high rate of success in Affiliate Marketing with a lot of proof to justify.</p>
+                                    </div>
+                                    <br>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">It’s been years that I’ve been secretly using this system to consistently generate 100k-200k Weekly selling other peoples products online and earn a commission per sale.</p>
+                                    </div>
+                                    <br>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">But that’s not all, in order for you to earn at least 250k monthly you need a badass marketing strategy.</p>
+                                    </div>
+                                    <br>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">This is the same strategy I used in generating nothing less than #250k every month.</p>
+                                    </div>
+                                    <br>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">I know you are eager to know what this strategy is?</p>
+                                    </div>
+                                    <br>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">This is why I have created an online class where I will be revealing my proven strategy that has made me achieved this result.</p>
+                                    </div>
+                                    <br>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">Now I feel it’s time for me to share this SECRET STRATEGY with few people.</p>
+                                    </div>
+                                    <br>
+                                    <div class="thrv_wrapper thrv_text_element">
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">This is Why I have Created a detailed Video and Prepared a blueprint that will guide and help you acheive same results like me and my students. Now I feel its time for me to share this video and blueprint to a few people. This video webinar was created to give you ...</p>
+                                    </div>
+                                    <br>
+                                    
                                     <div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-180246f8b65">
                                         <p data-css="tve-u-180246f49c0" dir="ltr" style="text-align: center;">
                                             Unfortunately, this <strong>FREE VIDEO</strong> is only available for the
