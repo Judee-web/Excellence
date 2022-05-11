@@ -1858,7 +1858,7 @@
                                     </div>
                                     <div class="thrv_wrapper thrv_text_element">
                                         <p data-css="tve-u-180246cb187" style="text-align: center;"><strong>Here are
-                                                some recent daily commission from selling other people's products.</strong></p>
+                                                some of my recent daily commission from selling other people's products.</strong></p>
                                     </div>
                                     <div class="thrv_wrapper tve_image_caption" data-css="tve-u-18024555508" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-135" alt=""
