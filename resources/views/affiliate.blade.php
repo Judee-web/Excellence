@@ -97,7 +97,7 @@
     <meta name="facebook-domain-verification" content="9qrexi0fkpb673zpflyradt0qqzitn" />
     <style type="text/css" id="tve_global_variables">
         :root {
-            --tcb-color-0: rgb(255, 36, 36);
+            --tcb-color-0:rgb(0, 0, 0);
         }
     </style>
     <link rel="preload"
@@ -234,7 +234,7 @@
                 --g-regular-weight: 400;
                 --g-bold-weight: 600;
                 font-size: 31px !important;
-                color: rgb(0, 0, 0) !important;
+                color: rgb(47 16 4) !important;
                 --tcb-applied-color: rgb(0, 0, 0) !important;
                 --tve-applied-color: rgb(0, 0, 0) !important;
                 font-family: Jost !important;
@@ -251,12 +251,12 @@
                 box-shadow: rgba(255, 181, 99, 0.21) 0px 6px 15px 0px !important;
                 --tve-applied-box-shadow: 0px 6px 15px 0px rgba(255, 181, 99, 0.21) !important;
                 border-radius: 8px !important;
-                background-image: linear-gradient(rgb(248, 165, 73), rgb(248, 165, 73)) !important;
+                background-image: linear-gradient(rgb(233 239 240 / 89%), rgb(224 229 230 / 92%)) !important;
                 background-size: auto !important;
                 background-position: 50% 50% !important;
                 background-attachment: scroll !important;
                 background-repeat: no-repeat !important;
-                --tve-applied-background-image: linear-gradient(rgb(248, 165, 73), rgb(248, 165, 73)) !important;
+                --tve-applied-background-image: linear-gradient(rgba(232, 232, 232, 0.5), rgba(232, 232, 232, 0.5)) !important;
             }
 
             :not(#tve) [data-css="tve-u-180243e4408"] {
@@ -293,12 +293,12 @@
                 --tve-applied-box-shadow: 0px 8px 12px 0px rgba(0, 0, 0, 0.25);
                 border: 1px solid rgb(0, 0, 0) !important;
                 --tve-applied-border: 1px solid rgb(0, 0, 0) !important;
-                background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) !important;
+                background-image:rgb(255, 255, 255);
                 background-size: auto !important;
                 background-position: 50% 50% !important;
                 background-attachment: scroll !important;
                 background-repeat: no-repeat !important;
-                --tve-applied-background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) !important;
+                --tve-applied-background-image: rgb(255, 255, 255);
             }
 
             [data-css="tve-u-1802440d5e3"] {
