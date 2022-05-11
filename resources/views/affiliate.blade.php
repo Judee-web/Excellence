@@ -1834,7 +1834,7 @@
                                     <div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-180246f8b65">
                                         <p data-css="tve-u-180246f49c0" dir="ltr" style="text-align: center;">
                                             Unfortunately, this <strong>FREE VIDEO</strong> is only available for the
-                                            first <strong>100 people, Get it while you can!</strong></p>
+                                            first <strong>50 person's, Get it while you can!</strong></p>
                                     </div>
                                     <div class="thrv_wrapper tve_image_caption" data-css="tve-u-180247eee9b" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-149" alt=""
