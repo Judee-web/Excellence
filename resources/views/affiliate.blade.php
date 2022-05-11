@@ -1699,6 +1699,16 @@
                                                 srcset="https://idyllic-klepon-d7c501.netlify.app/image4.jpeg"
                                                 sizes="(max-width: 621px) 100vw, 621px" /></span>
                                     </div>
+                                    <div class="thrv_wrapper tve_image_caption" data-css="tve-u-18024555508" style="">
+                                        <span class="tve_image_frame"><img class="tve_image wp-image-102" alt=""
+                                                data-id="102" width="621" data-init-width="1080" height="604"
+                                                data-init-height="1050" title="photo_2022-01-28_09-34-21" loading="lazy"
+                                                src="https://idyllic-klepon-d7c501.netlify.app/image9.jpeg"
+                                                data-width="621" data-height="604" mt-d="0" style=""
+                                                data-css="tve-u-18024556a31"
+                                                srcset="https://idyllic-klepon-d7c501.netlify.app/image9.jpeg"
+                                                sizes="(max-width: 621px) 100vw, 621px" /></span>
+                                    </div>
                                     <div class="thrv_wrapper tve_image_caption" data-css="tve-u-180247eee9b" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-149" alt=""
                                                 data-id="149" width="251" data-init-width="319" height="132"
@@ -1708,6 +1718,7 @@
                                                 data-width="251" data-height="132" mt-d="0" style=""
                                                 data-css="tve-u-180247f06b2" mt-m="0"></span>
                                     </div>
+                                    
                                     <div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root"
                                         data-button-style="btn-tpl-58398" data-css="tve-u-1802451e69a" style="">
                                         <div class="thrive-colors-palette-config" style="display: none !important">
