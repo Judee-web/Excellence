@@ -1532,11 +1532,24 @@
                                         <p data-css="tve-u-180244c8b44" dir="ltr" style=""><br></p>
                                     </div>
                                     <div class="thrv_wrapper thrv_text_element">
-                                        <p dir="ltr">To actually make money online, you essentially need <strong>3
+                                        <p dir="ltr">To actually make money online, you essentially need <strong>4
                                                 things</strong>:</p>
                                     </div>
                                     <div class="thrv_wrapper thrv-styled_list" data-icon-code="icon-check">
                                         <ul class="tcb-styled-list">
+                                        <li class="thrv-styled-list-item" data-css="tve-u-180245fccd2">
+                                                <div class="tcb-styled-list-icon">
+                                                    <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style"
+                                                        data-css="tve-u-180245fccd4" style=""><svg class="tcb-icon"
+                                                            viewBox="0 0 32 32" data-id="icon-check" data-name="">
+                                                            <path
+                                                                d="M29.333 10.267c0 0.4-0.133 0.8-0.533 1.2l-14.8 14.8c-0.267 0.267-0.667 0.4-1.067 0.4s-0.933-0.133-1.2-0.533l-2.4-2.267-6.267-6.267c-0.267-0.267-0.4-0.667-0.4-1.2s0.133-0.8 0.533-1.2l2.4-2.4c0.267-0.133 0.667-0.4 1.067-0.4s0.8 0.133 1.2 0.533l5.067 5.067 11.2-11.333c0.267-0.267 0.667-0.533 1.2-0.533 0.4 0 0.8 0.133 1.2 0.533l2.4 2.4c0.267 0.267 0.4 0.667 0.4 1.2z">
+                                                            </path>
+                                                        </svg></div>
+                                                </div><span
+                                                    class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
+                                                    data-css="tve-u-180245fccd5">A Smart Phone</span>
+                                            </li>
                                             <li class="thrv-styled-list-item" data-css="tve-u-180245fcccd">
                                                 <div class="tcb-styled-list-icon">
                                                     <div class="thrv_wrapper thrv_icon tve_no_drag tcb-no-delete tcb-no-clone tcb-no-save tcb-icon-inherit-style tcb-local-vars-root"
@@ -1587,7 +1600,7 @@
                                     <div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-180246f8b65">
                                         <p data-css="tve-u-180246f49c0" dir="ltr" style="text-align: center;">
                                             Unfortunately, this <strong>FREE VIDEO</strong> is only available for the
-                                            first <strong>100 people, Get it while you can!</strong></p>
+                                            first <strong>50 persons, Get it while you can!</strong></p>
                                     </div>
                                     <div class="thrv_wrapper tve_image_caption" data-css="tve-u-180247eee9b" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-149" alt=""
@@ -1852,7 +1865,7 @@
                                     <div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-180246f8b65">
                                         <p data-css="tve-u-180246f49c0" dir="ltr" style="text-align: center;">
                                             Unfortunately, this <strong>FREE VIDEO</strong> is only available for the
-                                            first <strong>100 people, Get it while you can!</strong></p>
+                                            first <strong>50 persons, Get it while you can!</strong></p>
                                     </div>
                                     <div class="thrv_wrapper tve_image_caption" data-css="tve-u-180247eee9b" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-149" alt=""
