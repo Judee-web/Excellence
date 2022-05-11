@@ -1597,7 +1597,7 @@
                                         </ul>
                                     </div>
                                     <div class="thrv_wrapper thrv_text_element">
-                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">If you have the first one I
+                                        <p data-css="tve-u-180244cd445" dir="ltr" style="">If you have the first two I
                                             can help you with the other two in this special <strong>FREE VIDEO
                                             </strong>I have created for anyone that wants to make money online or is
                                             finding it hard to start…</p>
@@ -1656,8 +1656,7 @@
                                     <div class="thrv_wrapper thrv_text_element">
                                         <p data-css="tve-u-18024543a3b">Not only have I earned this much for myself from
                                             this business model, but I have also been able <strong>to show my students
-                                                replicate these results for themselves</strong> and this is what they
-                                            are now saying…</p>
+                                                replicate these results for themselves</strong></p>
                                         <p data-css="tve-u-18024543a3b"><br></p>
                                     </div>
                                     <div class="thrv_wrapper tve_image_caption" data-css="tve-u-18024555508" style="">
@@ -1848,7 +1847,7 @@
                                     </div>
                                     <div class="thrv_wrapper thrv_text_element">
                                         <p data-css="tve-u-180246cb187" style="text-align: center;"><strong>Here are
-                                                some of my own recent weekly payouts…</strong></p>
+                                                some recent daily commission from selling other people's products.</strong></p>
                                     </div>
                                     <div class="thrv_wrapper tve_image_caption" data-css="tve-u-18024555508" style="">
                                         <span class="tve_image_frame"><img class="tve_image wp-image-135" alt=""
