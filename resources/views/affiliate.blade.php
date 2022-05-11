@@ -1781,7 +1781,7 @@
                                                 </div><span
                                                     class="thrv-advanced-inline-text tve_editable tcb-styled-list-icon-text tcb-no-delete tcb-no-save"
                                                     data-css="tve-u-1802449eb67" style="">The exact strategy I and my
-                                                    students to make multiple <strong>6 figures weekly</strong></span>
+                                                    students use to make multiple <strong>6 figures weekly</strong></span>
                                             </li>
                                             <li class="thrv-styled-list-item" data-css="tve-u-180244a8073" style="">
                                                 <div class="tcb-styled-list-icon">
