@@ -28,7 +28,7 @@ Route::get('/', function () {
     return view('fci2');
 });
 
-Route::get('/affiliate-marketing', function () {
+Route::get('/free-video-guide', function () {
     return view('affiliate');
 });
 
