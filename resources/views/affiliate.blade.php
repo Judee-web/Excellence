@@ -16,25 +16,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <meta name='robots' content='max-image-preview:large' />
-
-    <!-- Meta Pixel Code -->
+    <meta name="facebook-domain-verification" content="qnlpht5y2bqvx0zln9w8hmbvlosldn" />
+   <!-- Meta Pixel Code -->
     <script>
-        !function (f, b, e, v, n, t, s) {
-            if (f.fbq) return; n = f.fbq = function () {
-                n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
-            n.queue = []; t = b.createElement(e); t.async = !0;
-            t.src = v; s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '1371832563228056');
-        fbq('track', 'PageView');
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '316692740625963');
+    fbq('track', 'PageView');
     </script>
     <noscript><img height="1" width="1" style="display:none"
-            src="https://www.facebook.com/tr?id=1371832563228056&ev=PageView&noscript=1" /></noscript>
+    src="https://www.facebook.com/tr?id=316692740625963&ev=PageView&noscript=1"
+    /></noscript>
     <!-- End Meta Pixel Code -->
 
     <link rel='dns-prefetch' href='//s.w.org' />
@@ -2069,24 +2067,22 @@
         </div>
         <div class="fr-dropdown-holder tcb-style-wrap"></div>
     </div>
-    <!-- Meta Pixel Code -->
+   <!-- Meta Pixel Code -->
     <script>
-        !function (f, b, e, v, n, t, s) {
-            if (f.fbq) return; n = f.fbq = function () {
-                n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
-            n.queue = []; t = b.createElement(e); t.async = !0;
-            t.src = v; s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '1371832563228056');
-        fbq('track', 'PageView');
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '316692740625963');
+    fbq('track', 'PageView');
     </script>
     <noscript><img height="1" width="1" style="display:none"
-            src="https://www.facebook.com/tr?id=1371832563228056&ev=PageView&noscript=1" /></noscript>
+    src="https://www.facebook.com/tr?id=316692740625963&ev=PageView&noscript=1"
+    /></noscript>
     <!-- End Meta Pixel Code -->
     <script src='https://www.phenomenalcassandra.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4'
         id='imagesloaded-js'></script>
