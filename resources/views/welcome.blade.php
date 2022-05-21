@@ -7,7 +7,7 @@
     <meta name="format-detection" content="telephone=no">
     
 
-
+    <meta name="facebook-domain-verification" content="qnlpht5y2bqvx0zln9w8hmbvlosldn" />
 
 	<link rel="pingback" href="http://theme.pixflow.net/massive-dynamic/business-agency/xmlrpc.php" />
 
