@@ -24,11 +24,11 @@ Route::get('/fci-2022', function () {
 Route::get('/fci2-2022', function () {
     return view('fci2');
 });
-Route::get('/', function () {
-    return view('fci2');
-});
+
+
+
 
 Route::get('/free-video-guide', function () {
     return view('affiliate');
-});
 
+});
