@@ -6,13 +6,13 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
     <meta name="format-detection" content="telephone=no">
     
-
-    <meta name="facebook-domain-verification" content="qnlpht5y2bqvx0zln9w8hmbvlosldn" />
+<meta name="facebook-domain-verification" content="qgouvjl90p4emsr1c543tp2jcejow4" />
+    
 
 	<link rel="pingback" href="http://theme.pixflow.net/massive-dynamic/business-agency/xmlrpc.php" />
 
 	<!-- Theme Hook -->
-    <title>Massive Dynamic Business Agency Theme &#8211; Just another Massive Dynamic Website Builder Themes site</title>
+    <title>Massive Dynamic Business Agency Theme &#8211; Just another Massive Dynamic website </title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
